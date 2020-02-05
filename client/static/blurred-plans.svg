@@ -1,0 +1,237 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="123.55859mm" height="124.87922mm" viewBox="0 0 123.5586 124.87922">
+  <defs>
+    <filter id="a" color-interpolation-filters="sRGB">
+      <feGaussianBlur result="blur" stdDeviation="1.31 1.57"/>
+    </filter>
+    <filter id="b" color-interpolation-filters="sRGB">
+      <feGaussianBlur result="blur" stdDeviation="1.31 1.57"/>
+    </filter>
+    <filter id="c" color-interpolation-filters="sRGB">
+      <feGaussianBlur result="blur" stdDeviation="1.31 1.57"/>
+    </filter>
+    <filter id="d" color-interpolation-filters="sRGB">
+      <feGaussianBlur result="blur" stdDeviation="1.31 1.57"/>
+    </filter>
+    <filter id="e" color-interpolation-filters="sRGB">
+      <feGaussianBlur result="blur" stdDeviation="1.31 1.57"/>
+    </filter>
+    <filter id="f" color-interpolation-filters="sRGB">
+      <feGaussianBlur result="blur" stdDeviation="1.31 1.57"/>
+    </filter>
+    <filter id="g" color-interpolation-filters="sRGB">
+      <feGaussianBlur result="blur" stdDeviation="1.31 1.57"/>
+    </filter>
+    <filter id="h" color-interpolation-filters="sRGB">
+      <feGaussianBlur result="blur" stdDeviation="1.31 1.57"/>
+    </filter>
+    <filter id="i" color-interpolation-filters="sRGB">
+      <feGaussianBlur result="blur" stdDeviation="1.31 1.57"/>
+    </filter>
+    <filter id="j" color-interpolation-filters="sRGB">
+      <feGaussianBlur result="blur" stdDeviation="1.31 1.57"/>
+    </filter>
+    <filter id="k" color-interpolation-filters="sRGB">
+      <feGaussianBlur result="blur" stdDeviation="1.31 1.57"/>
+    </filter>
+    <filter id="l" color-interpolation-filters="sRGB">
+      <feGaussianBlur result="blur" stdDeviation="1.31 1.57"/>
+    </filter>
+    <filter id="m" color-interpolation-filters="sRGB">
+      <feGaussianBlur result="blur" stdDeviation="1.31 1.57"/>
+    </filter>
+    <filter id="n" color-interpolation-filters="sRGB">
+      <feGaussianBlur result="blur" stdDeviation="1.31 1.57"/>
+    </filter>
+    <filter id="o" color-interpolation-filters="sRGB">
+      <feGaussianBlur result="blur" stdDeviation="1.31 1.57"/>
+    </filter>
+    <filter id="p" color-interpolation-filters="sRGB">
+      <feGaussianBlur result="blur" stdDeviation="1.31 1.57"/>
+    </filter>
+    <filter id="q" color-interpolation-filters="sRGB">
+      <feGaussianBlur result="blur" stdDeviation="1.31 1.57"/>
+    </filter>
+    <filter id="r" color-interpolation-filters="sRGB">
+      <feGaussianBlur result="blur" stdDeviation="1.31 1.57"/>
+    </filter>
+    <filter id="s" color-interpolation-filters="sRGB">
+      <feGaussianBlur result="blur" stdDeviation="6 5.73859"/>
+    </filter>
+    <filter id="t" color-interpolation-filters="sRGB">
+      <feGaussianBlur result="blur" stdDeviation="1.31 1.57"/>
+    </filter>
+    <filter id="u" color-interpolation-filters="sRGB">
+      <feGaussianBlur result="blur" stdDeviation="1.31 1.57"/>
+    </filter>
+    <filter id="v" color-interpolation-filters="sRGB">
+      <feGaussianBlur result="blur" stdDeviation="1.31 1.57"/>
+    </filter>
+    <filter id="w" color-interpolation-filters="sRGB">
+      <feGaussianBlur result="blur" stdDeviation="1.31 1.57"/>
+    </filter>
+    <filter id="x" color-interpolation-filters="sRGB">
+      <feGaussianBlur result="blur" stdDeviation="1.31 1.57"/>
+    </filter>
+    <filter id="y" color-interpolation-filters="sRGB">
+      <feGaussianBlur result="blur" stdDeviation="1.31 1.57"/>
+    </filter>
+    <filter id="z" color-interpolation-filters="sRGB">
+      <feGaussianBlur result="blur" stdDeviation="1.31 1.57"/>
+    </filter>
+    <filter id="A" color-interpolation-filters="sRGB">
+      <feGaussianBlur result="blur" stdDeviation="1.31 1.57"/>
+    </filter>
+    <filter id="B" color-interpolation-filters="sRGB">
+      <feGaussianBlur result="blur" stdDeviation="1.31 1.57"/>
+    </filter>
+    <filter id="C" color-interpolation-filters="sRGB">
+      <feGaussianBlur result="blur" stdDeviation="1.31 1.57"/>
+    </filter>
+    <filter id="D" color-interpolation-filters="sRGB">
+      <feGaussianBlur result="blur" stdDeviation="1.31 1.57"/>
+    </filter>
+    <filter id="E" color-interpolation-filters="sRGB">
+      <feGaussianBlur result="blur" stdDeviation="1.31 1.57"/>
+    </filter>
+    <filter id="F" color-interpolation-filters="sRGB">
+      <feGaussianBlur result="blur" stdDeviation="1.31 1.57"/>
+    </filter>
+  </defs>
+  <path fill="none" stroke="#fe5f01" stroke-linecap="round" stroke-linejoin="round" stroke-width=".40145189" d="M750.20154 470.95374h41.502731v111.08814H750.20154z" filter="url(#a)" paint-order="stroke fill markers" transform="matrix(1.0102 0 0 .93679 -715.8528709 -430.777107)"/>
+  <path fill="#242947" d="M726.65005 475.57133c2.27735.29258 3.21815 1.80841 2.99189 4.39235l-2.99189.0206c.20844.7779.56858.93427 1.40046.93427-.26349.54211-.62783.85953-1.40046.85005z" filter="url(#b)" paint-order="stroke fill markers" transform="translate(-707.991329 -460.089447)"/>
+  <path fill="#ccc" d="M726.64992 475.57147l-6.24433.0122c.0349.94358.56463 1.58615 1.57562 1.93558-.75058.79942-1.28481 1.72607-1.31662 2.94828l-.0226 13.81885 4.68124-4.5688c3.12882-2.77154 3.25641-5.85923 1.32671-7.94909zm-.9382 1.56239c.12819.19653.35654.41598.6496.64995.00079.38838-.28032.66146-.6496.66109-.35475 0-.65273-.27438-.65273-.66109 0-.35425.28064-.64995.65273-.64995z" filter="url(#c)" paint-order="stroke fill markers" transform="translate(-707.991329 -460.089447)"/>
+  <path fill="#999" d="M726.65005 481.76862c-5.77645-.78365-2.61665 8.27902-6.00808 12.51773l5.07703-4.90268c2.77218-2.56117 2.99614-5.49638.93105-7.61505z" filter="url(#d)" paint-order="stroke fill markers" transform="translate(-707.991329 -460.089447)"/>
+  <text x="713.83002" y="507.24472" fill="#0d0e19" stroke-linecap="round" stroke-linejoin="round" stroke-width=".2086948" filter="url(#e)" font-family="Verdana" font-size="4.84632111" font-weight="400" letter-spacing="0" paint-order="stroke fill markers" style="line-height:1.25;-inkscape-font-specification:Verdana;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0" transform="translate(-707.991329 -460.089447)" white-space="normal" word-spacing="0">
+    <tspan x="713.83002" y="507.24472" font-family="Arial" font-stretch="condensed" style="-inkscape-font-specification:'Arial Condensed'">COCKATOO</tspan>
+  </text>
+  <text x="715.85522" y="518.93506" fill="#0d0e19" stroke-linecap="round" stroke-linejoin="round" stroke-width=".29750684" filter="url(#f)" font-family="Verdana" font-size="6.90871859" font-weight="400" letter-spacing="0" paint-order="stroke fill markers" style="line-height:1.25;-inkscape-font-specification:Verdana;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0" transform="translate(-707.991329 -460.089447)" white-space="normal" word-spacing="0">
+    <tspan x="715.85522" y="518.93506" font-family="Arial" font-stretch="condensed" font-weight="700" style="-inkscape-font-specification:'Arial Bold Condensed'">FREE</tspan>
+  </text>
+  <path fill="none" stroke="#fe5f01" stroke-linecap="round" stroke-linejoin="round" stroke-width=".36459583" d="M712.95703 567.61389h21.047476v6.0803819H712.95703z" filter="url(#g)" paint-order="stroke fill markers" transform="translate(-707.991329 -460.089447)"/>
+  <text x="716.84747" y="571.45026" fill="#0d0e19" stroke-linecap="round" stroke-linejoin="round" stroke-width=".09571441" filter="url(#h)" font-family="Verdana" font-size="2.22268486" font-weight="400" letter-spacing="0" paint-order="stroke fill markers" style="line-height:1.25;-inkscape-font-specification:Verdana;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0" transform="translate(-707.991329 -460.089447)" white-space="normal" word-spacing="0">
+    <tspan x="716.84747" y="571.45026" font-family="Arial" font-stretch="condensed" style="-inkscape-font-specification:'Arial Condensed'">TRY FOR FREE</tspan>
+  </text>
+  <g filter="url(#i)" transform="translate(-260.324859 -174.500287)">
+    <path fill="#23e2c1" d="M371.29712 189.9822c2.27735.29256 3.21815 1.80838 2.99189 4.39235l-2.99189.0206c.20844.7779.56858.93428 1.40046.93428-.26348.5421-.62783.85952-1.40046.85005z" paint-order="stroke fill markers"/>
+    <path fill="#378cd6" d="M371.29699 189.98233l-6.24433.0122c.0349.94358.56464 1.58613 1.57562 1.93558-.75058.79942-1.28481 1.72606-1.31662 2.94828l-.0226 13.81884 4.68124-4.5688c3.12883-2.77155 3.25642-5.85923 1.32671-7.9491zm-.9382 1.56239c.12819.19652.35654.41596.6496.64995.00068.38837-.28032.66144-.6496.66109-.35475 0-.65273-.27439-.65273-.66109 0-.35425.28064-.64995.65273-.64995z" paint-order="stroke fill markers"/>
+    <path fill="#ffcc08" d="M371.29712 196.17947c-5.77645-.78364-2.61665 8.27903-6.00808 12.51774l5.07703-4.90268c2.77218-2.56117 2.99614-5.49638.93105-7.61506z" paint-order="stroke fill markers"/>
+  </g>
+  <text x="809.67773" y="507.24353" fill="#0d0e19" stroke-linecap="round" stroke-linejoin="round" stroke-width=".2086948" filter="url(#j)" font-family="Verdana" font-size="4.84632111" font-weight="400" letter-spacing="0" paint-order="stroke fill markers" style="line-height:1.25;-inkscape-font-specification:Verdana;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0" transform="translate(-707.991329 -460.089447)" white-space="normal" word-spacing="0">
+    <tspan x="809.67773" y="507.24353" font-family="Arial" font-stretch="condensed" style="-inkscape-font-specification:'Arial Condensed'">MACAW</tspan>
+  </text>
+  <text x="808.70819" y="518.78833" fill="#0d0e19" stroke-linecap="round" stroke-linejoin="round" stroke-width=".29750684" filter="url(#k)" font-family="Verdana" font-size="6.90871859" font-weight="400" letter-spacing="0" paint-order="stroke fill markers" style="line-height:1.25;-inkscape-font-specification:Verdana;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0" transform="translate(-707.991329 -460.089447)" white-space="normal" word-spacing="0">
+    <tspan x="808.70819" y="518.78833" font-family="Arial" font-stretch="condensed" font-weight="700" style="-inkscape-font-specification:'Arial Bold Condensed'">$39.99</tspan>
+  </text>
+  <g stroke-linecap="round" stroke-linejoin="round" filter="url(#l)" transform="translate(-493.595709 -445.370026)">
+    <path fill="none" stroke="#fe5f01" stroke-width=".36459583" d="M594.00208 541.78143h21.047476v6.0803819H594.00208z" paint-order="stroke fill markers"/>
+    <text x="602.59235" y="545.61768" fill="#0d0e19" stroke-width=".09571441" font-family="Verdana" font-size="2.22268486" font-weight="400" letter-spacing="0" paint-order="stroke fill markers" style="line-height:1.25;-inkscape-font-specification:Verdana;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0" white-space="normal" word-spacing="0">
+      <tspan x="602.59235" y="545.61768" font-family="Arial" font-stretch="condensed" style="-inkscape-font-specification:'Arial Condensed'">BUY</tspan>
+    </text>
+  </g>
+  <path fill="#ffcb05" d="M773.71439 475.49376c2.27735.29255 3.21815 1.80837 2.99189 4.39235l-2.99189.0206c.20844.77788.56858.93427 1.40046.93427-.26349.54211-.62783.85953-1.40046.85006z" filter="url(#m)" paint-order="stroke fill markers" transform="translate(-707.991329 -460.089447)"/>
+  <path fill="#f23c50" d="M773.71426 475.49389l-6.24433.0122c.0349.94359.56463 1.58613 1.57562 1.93559-.75058.79941-1.28481 1.72606-1.31662 2.94828l-.0226 13.81884 4.68124-4.5688c3.12882-2.77156 3.25641-5.85925 1.32671-7.94911zm-.9382 1.56239c.12819.19651.35654.41595.6496.64995.00079.38836-.28032.66143-.6496.66109-.35475 0-.65273-.2744-.65273-.66109 0-.35425.28064-.64995.65273-.64995z" filter="url(#n)" paint-order="stroke fill markers" transform="translate(-707.991329 -460.089447)"/>
+  <path fill="#418a47" d="M773.71439 481.69102c-5.77645-.78365-2.61665 8.27905-6.00808 12.51775l5.07703-4.90268c2.77218-2.56116 2.99614-5.4964.93105-7.61507z" filter="url(#o)" paint-order="stroke fill markers" transform="translate(-707.991329 -460.089447)"/>
+  <text x="762.01959" y="507.24472" fill="#0d0e19" stroke-linecap="round" stroke-linejoin="round" stroke-width=".2086948" filter="url(#p)" font-family="Verdana" font-size="4.84632111" font-weight="400" letter-spacing="0" paint-order="stroke fill markers" style="line-height:1.25;-inkscape-font-specification:Verdana;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0" transform="translate(-707.991329 -460.089447)" white-space="normal" word-spacing="0">
+    <tspan x="762.01959" y="507.24472" font-family="Arial" font-stretch="condensed" style="-inkscape-font-specification:'Arial Condensed'">LOVEBIRD</tspan>
+  </text>
+  <text x="763.22192" y="518.78833" fill="#fe5f01" stroke-linecap="round" stroke-linejoin="round" stroke-width=".29750684" filter="url(#q)" font-family="Verdana" font-size="6.90871859" font-weight="400" letter-spacing="0" paint-order="stroke fill markers" style="line-height:1.25;-inkscape-font-specification:Verdana;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0" transform="translate(-707.991329 -460.089447)" white-space="normal" word-spacing="0">
+    <tspan x="763.22192" y="518.78833" font-family="Arial" font-stretch="condensed" font-weight="700" style="-inkscape-font-specification:'Arial Bold Condensed'">$9.99</tspan>
+  </text>
+  <g filter="url(#r)" transform="translate(-494.124879 -416.795005)">
+    <path fill="#ccc" d="M514.96466 71.794579h90.845711v48.651787H514.96466z" filter="url(#s)" paint-order="stroke fill markers" transform="matrix(.22406 0 0 .12994 433.17612 507.15782)"/>
+    <path fill="#fe5f01" stroke="#fc3a52" stroke-linecap="round" stroke-linejoin="round" stroke-width=".36459583" d="M546.56213 515.24542h21.047476v6.0803819H546.56213z" paint-order="stroke fill markers"/>
+    <text x="555.1524" y="519.08167" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".09571441" font-family="Verdana" font-size="2.22268486" font-weight="400" letter-spacing="0" paint-order="stroke fill markers" style="line-height:1.25;-inkscape-font-specification:Verdana;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0" white-space="normal" word-spacing="0">
+      <tspan x="555.1524" y="519.08167" font-family="Arial" font-stretch="condensed" style="-inkscape-font-specification:'Arial Condensed'">BUY</tspan>
+    </text>
+  </g>
+  <text x="710.84723" y="529.46344" fill="#0d0e19" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1533637" filter="url(#t)" font-family="Verdana" font-size="3.56141973" font-weight="400" letter-spacing="0" paint-order="stroke fill markers" style="line-height:1.25;-inkscape-font-specification:Verdana;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0" transform="translate(-707.991329 -460.089447)" white-space="normal" word-spacing="0">
+    <tspan x="710.84723" y="529.46344" font-family="Arial" font-stretch="condensed" style="-inkscape-font-specification:'Arial Condensed'">Add new ideas</tspan>
+  </text>
+  <text x="710.70465" y="540.56549" fill="#0d0e19" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1533637" filter="url(#t)" font-family="Verdana" font-size="3.56141996" font-weight="400" letter-spacing="0" paint-order="stroke fill markers" style="line-height:1.25;-inkscape-font-specification:Verdana;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0" transform="translate(-707.991329 -460.089447)" white-space="normal" word-spacing="0">
+    <tspan x="710.70465" y="540.56549" font-family="Arial" font-stretch="condensed" style="-inkscape-font-specification:'Arial Condensed'">Comment under ideas</tspan>
+  </text>
+  <text x="710.61945" y="551.66748" fill="#0d0e19" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1533637" filter="url(#t)" font-family="Verdana" font-size="3.5614202" font-weight="400" letter-spacing="0" paint-order="stroke fill markers" style="line-height:1.25;-inkscape-font-specification:Verdana;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0" transform="translate(-707.991329 -460.089447)" white-space="normal" word-spacing="0">
+    <tspan x="710.61945" y="551.66748" font-family="Arial" font-stretch="condensed" style="-inkscape-font-specification:'Arial Condensed'">Unlimited boards</tspan>
+  </text>
+  <text x="710.61945" y="562.10522" fill="#0d0e19" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1533637" filter="url(#t)" font-family="Verdana" font-size="3.5614202" font-weight="400" letter-spacing="0" paint-order="stroke fill markers" style="line-height:1.25;-inkscape-font-specification:Verdana;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0" transform="translate(-707.991329 -460.089447)" white-space="normal" word-spacing="0">
+    <tspan x="710.61945" y="562.10522" font-family="Arial" font-stretch="condensed" style="-inkscape-font-specification:'Arial Condensed'">HTTPS support</tspan>
+  </text>
+  <g stroke-linecap="round" stroke-linejoin="round" filter="url(#t)" transform="translate(-497.829049 -396.686663)">
+    <circle cx="522.22137" cy="462.82758" r="1.3890625" fill="none" stroke="#fe5f01" stroke-width=".36459583" paint-order="stroke fill markers"/>
+    <text x="522.21539" y="463.80753" fill="#fe5f01" stroke-width=".11671003" font-family="Arial" font-size="2.71024728" font-stretch="condensed" font-weight="700" letter-spacing="0" paint-order="stroke fill markers" style="line-height:1.25;-inkscape-font-specification:'Arial Bold Condensed';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0" text-anchor="middle" white-space="normal" word-spacing="0">
+      <tspan x="522.21539" y="463.80753">?</tspan>
+    </text>
+  </g>
+  <g stroke-linecap="round" stroke-linejoin="round" filter="url(#t)" transform="translate(-489.428549 -385.904864)">
+    <circle cx="522.22137" cy="462.82758" r="1.3890625" fill="none" stroke="#fe5f01" stroke-width=".36459583" paint-order="stroke fill markers"/>
+    <text x="522.21539" y="463.80753" fill="#fe5f01" stroke-width=".11671003" font-family="Arial" font-size="2.71024728" font-stretch="condensed" font-weight="700" letter-spacing="0" paint-order="stroke fill markers" style="line-height:1.25;-inkscape-font-specification:'Arial Bold Condensed';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0" text-anchor="middle" white-space="normal" word-spacing="0">
+      <tspan x="522.21539" y="463.80753">?</tspan>
+    </text>
+  </g>
+  <g stroke-linecap="round" stroke-linejoin="round" filter="url(#t)" transform="translate(-495.513959 -374.660071)">
+    <circle cx="522.22137" cy="462.82758" r="1.3890625" fill="none" stroke="#fe5f01" stroke-width=".36459583" paint-order="stroke fill markers"/>
+    <text x="522.21539" y="463.80753" fill="#fe5f01" stroke-width=".11671003" font-family="Arial" font-size="2.71024728" font-stretch="condensed" font-weight="700" letter-spacing="0" paint-order="stroke fill markers" style="line-height:1.25;-inkscape-font-specification:'Arial Bold Condensed';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0" text-anchor="middle" white-space="normal" word-spacing="0">
+      <tspan x="522.21539" y="463.80753">?</tspan>
+    </text>
+  </g>
+  <g stroke-linecap="round" stroke-linejoin="round" filter="url(#t)" transform="translate(-497.630629 -364.341322)">
+    <circle cx="522.22137" cy="462.82758" r="1.3890625" fill="none" stroke="#fe5f01" stroke-width=".36459583" paint-order="stroke fill markers"/>
+    <text x="522.21539" y="463.80753" fill="#fe5f01" stroke-width=".11671003" font-family="Arial" font-size="2.71024728" font-stretch="condensed" font-weight="700" letter-spacing="0" paint-order="stroke fill markers" style="line-height:1.25;-inkscape-font-specification:'Arial Bold Condensed';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0" text-anchor="middle" white-space="normal" word-spacing="0">
+      <tspan x="522.21539" y="463.80753">?</tspan>
+    </text>
+  </g>
+  <text x="760.15564" y="529.46442" fill="#0d0e19" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1533637" filter="url(#u)" font-family="Verdana" font-size="3.5614202" font-weight="400" letter-spacing="0" paint-order="stroke fill markers" style="line-height:1.25;-inkscape-font-specification:Verdana;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0" transform="translate(-707.991329 -460.089447)" white-space="normal" word-spacing="0">
+    <tspan x="760.15564" y="529.46442" font-family="Arial" font-stretch="condensed" style="-inkscape-font-specification:'Arial Condensed'">Vote for ideas</tspan>
+  </text>
+  <text x="760.01306" y="540.56641" fill="#0d0e19" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1533637" filter="url(#v)" font-family="Verdana" font-size="3.56142044" font-weight="400" letter-spacing="0" paint-order="stroke fill markers" style="line-height:1.25;-inkscape-font-specification:Verdana;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0" transform="translate(-707.991329 -460.089447)" white-space="normal" word-spacing="0">
+    <tspan x="760.01306" y="540.56641" font-family="Arial" font-stretch="condensed" style="-inkscape-font-specification:'Arial Condensed'">Sort by most voted</tspan>
+  </text>
+  <text x="759.92786" y="551.66846" fill="#0d0e19" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1533637" filter="url(#w)" font-family="Verdana" font-size="3.56142044" font-weight="400" letter-spacing="0" paint-order="stroke fill markers" style="line-height:1.25;-inkscape-font-specification:Verdana;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0" transform="translate(-707.991329 -460.089447)" white-space="normal" word-spacing="0">
+    <tspan x="759.92786" y="551.66846" font-family="Arial" font-stretch="condensed" style="-inkscape-font-specification:'Arial Condensed'">Sort by most hot</tspan>
+  </text>
+  <g stroke-linecap="round" stroke-linejoin="round" filter="url(#x)" transform="translate(-450.637959 -396.686663)">
+    <circle cx="522.22137" cy="462.82758" r="1.3890625" fill="none" stroke="#fe5f01" stroke-width=".36459583" paint-order="stroke fill markers"/>
+    <text x="522.21539" y="463.80753" fill="#fe5f01" stroke-width=".11671003" font-family="Arial" font-size="2.71024728" font-stretch="condensed" font-weight="700" letter-spacing="0" paint-order="stroke fill markers" style="line-height:1.25;-inkscape-font-specification:'Arial Bold Condensed';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0" text-anchor="middle" white-space="normal" word-spacing="0">
+      <tspan x="522.21539" y="463.80753">?</tspan>
+    </text>
+  </g>
+  <g stroke-linecap="round" stroke-linejoin="round" filter="url(#y)" transform="translate(-443.295799 -385.904861)">
+    <circle cx="522.22137" cy="462.82758" r="1.3890625" fill="none" stroke="#fe5f01" stroke-width=".36459583" paint-order="stroke fill markers"/>
+    <text x="522.21539" y="463.80753" fill="#fe5f01" stroke-width=".11671003" font-family="Arial" font-size="2.71024728" font-stretch="condensed" font-weight="700" letter-spacing="0" paint-order="stroke fill markers" style="line-height:1.25;-inkscape-font-specification:'Arial Bold Condensed';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0" text-anchor="middle" white-space="normal" word-spacing="0">
+      <tspan x="522.21539" y="463.80753">?</tspan>
+    </text>
+  </g>
+  <g stroke-linecap="round" stroke-linejoin="round" filter="url(#z)" transform="translate(-446.735359 -374.66006)">
+    <circle cx="522.22137" cy="462.82758" r="1.3890625" fill="none" stroke="#fe5f01" stroke-width=".36459583" paint-order="stroke fill markers"/>
+    <text x="522.21539" y="463.80753" fill="#fe5f01" stroke-width=".11671003" font-family="Arial" font-size="2.71024728" font-stretch="condensed" font-weight="700" letter-spacing="0" paint-order="stroke fill markers" style="line-height:1.25;-inkscape-font-specification:'Arial Bold Condensed';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0" text-anchor="middle" white-space="normal" word-spacing="0">
+      <tspan x="522.21539" y="463.80753">?</tspan>
+    </text>
+  </g>
+  <text x="806.89355" y="529.46442" fill="#0d0e19" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1533637" filter="url(#A)" font-family="Verdana" font-size="3.5614202" font-weight="400" letter-spacing="0" paint-order="stroke fill markers" style="line-height:1.25;-inkscape-font-specification:Verdana;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0" transform="translate(-707.991329 -460.089447)" white-space="normal" word-spacing="0">
+    <tspan x="806.89355" y="529.46442" font-family="Arial" font-stretch="condensed" style="-inkscape-font-specification:'Arial Condensed'">Localization</tspan>
+  </text>
+  <text x="806.75098" y="539.22748" fill="#0d0e19" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1533637" filter="url(#B)" font-family="Verdana" font-size="3.56142044" font-weight="400" letter-spacing="0" paint-order="stroke fill markers" style="line-height:1.25;-inkscape-font-specification:Verdana;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0" transform="translate(-707.991329 -460.089447)" white-space="normal" word-spacing="0">
+    <tspan x="806.75098" y="539.22748" font-family="Arial" font-stretch="condensed" style="-inkscape-font-specification:'Arial Condensed'">Search bar</tspan>
+  </text>
+  <text x="806.66577" y="548.63922" fill="#0d0e19" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1533637" filter="url(#C)" font-family="Verdana" font-size="3.56142044" font-weight="400" letter-spacing="0" paint-order="stroke fill markers" style="line-height:1.25;-inkscape-font-specification:Verdana;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0" transform="translate(-707.991329 -460.089447)" white-space="normal" word-spacing="0">
+    <tspan x="806.66577" y="548.63922" font-family="Arial" font-stretch="condensed" style="-inkscape-font-specification:'Arial Condensed'">Group ideas</tspan>
+  </text>
+  <g stroke-linecap="round" stroke-linejoin="round" filter="url(#D)" transform="translate(-406.016699 -396.686663)">
+    <circle cx="522.22137" cy="462.82758" r="1.3890625" fill="none" stroke="#fe5f01" stroke-width=".36459583" paint-order="stroke fill markers"/>
+    <text x="522.21539" y="463.80753" fill="#fe5f01" stroke-width=".11671003" font-family="Arial" font-size="2.71024728" font-stretch="condensed" font-weight="700" letter-spacing="0" paint-order="stroke fill markers" style="line-height:1.25;-inkscape-font-specification:'Arial Bold Condensed';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0" text-anchor="middle" white-space="normal" word-spacing="0">
+      <tspan x="522.21539" y="463.80753">?</tspan>
+    </text>
+  </g>
+  <g stroke-linecap="round" stroke-linejoin="round" filter="url(#E)" transform="translate(-406.082869 -386.963192)">
+    <circle cx="522.22137" cy="462.82758" r="1.3890625" fill="none" stroke="#fe5f01" stroke-width=".36459583" paint-order="stroke fill markers"/>
+    <text x="522.21539" y="463.80753" fill="#fe5f01" stroke-width=".11671003" font-family="Arial" font-size="2.71024728" font-stretch="condensed" font-weight="700" letter-spacing="0" paint-order="stroke fill markers" style="line-height:1.25;-inkscape-font-specification:'Arial Bold Condensed';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0" text-anchor="middle" white-space="normal" word-spacing="0">
+      <tspan x="522.21539" y="463.80753">?</tspan>
+    </text>
+  </g>
+  <g stroke-linecap="round" stroke-linejoin="round" filter="url(#F)" transform="translate(-405.818259 -377.305901)">
+    <circle cx="522.22137" cy="462.82758" r="1.3890625" fill="none" stroke="#fe5f01" stroke-width=".36459583" paint-order="stroke fill markers"/>
+    <text x="522.21539" y="463.80753" fill="#fe5f01" stroke-width=".11671003" font-family="Arial" font-size="2.71024728" font-stretch="condensed" font-weight="700" letter-spacing="0" paint-order="stroke fill markers" style="line-height:1.25;-inkscape-font-specification:'Arial Bold Condensed';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0" text-anchor="middle" white-space="normal" word-spacing="0">
+      <tspan x="522.21539" y="463.80753">?</tspan>
+    </text>
+  </g>
+</svg>

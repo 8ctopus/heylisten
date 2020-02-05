@@ -1,0 +1,66 @@
+.quill-editor:not(.ql-container) {
+  background-color: rgba(186, 186, 186, 0.1);
+}
+
+.quill-editor,
+.quill-editor.ql-container {
+  min-height: 69px;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
+.quill-editor {
+  color: #495057;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  border-radius: 0.125rem;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.quill-editor[data-focus="true"] {
+  color: #495057;
+  background-color: #fff;
+  /*border-color: #80bdff;*/
+  border-color: $input-focus-border-color;
+  outline: 0;
+  /*box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);*/
+  box-shadow: 0 0 0 0.2rem $input-btn-focus-color;
+}
+
+.ql-editor.ql-blank::before {
+  font-style: normal !important;
+}
+
+.ql-syntax {
+  background-color: #23241f;
+  color: #f8f8f2;
+  /*overflow: visible;*/
+}
+
+pre.ql-syntax {
+  white-space: pre-wrap;
+  margin-bottom: 5px;
+  margin-top: 5px;
+  padding: 5px 10px;
+
+  border-radius: 3px;
+}
+
+blockquote {
+  border-left: 4px solid #ccc;
+  margin-bottom: 5px;
+  margin-top: 5px;
+  padding-left: 16px;
+}
+
+.quill-editor + .invalid-feedback {
+  display: block;
+}
+.quill-editor[data-invalid="true"] {
+  border-color: #dc3545;
+}
+.quill-editor[data-invalid="true"][data-focus="true"] {
+  border-color: #dc3545;
+  box-shadow: 0 0 0 0.2rem rgba(220, 53, 69, 0.25);
+}

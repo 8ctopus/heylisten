@@ -1,0 +1,30 @@
+// // Body
+$body-bg: #f7f9fb;
+
+// Cards
+$card-spacer-x: 0.9375rem;
+$card-spacer-y: 0.625rem;
+$card-cap-bg: #fbfbfb;
+$card-border-color: #e8eced;
+
+// Borders
+$border-radius: .125rem;
+$border-radius-lg: .2rem;
+$border-radius-sm: .15rem;
+
+// Nav Pills
+$nav-pills-border-radius: 0;
+
+// Theme
+$primary: #d44250;
+$secondary: #fe5f01;
+$dark: #305a7b;
+$input-btn-focus-color:       rgba(#007bff, .25);
+$input-focus-border-color:    lighten(#007bff, 25%);
+
+//Navbar
+$white:    #fff;
+$navbar-dark-color:                 rgba($white, .75);
+$navbar-dark-hover-color:           rgba($white, .85);
+$navbar-dark-active-color:          $white;
+$navbar-dark-disabled-color:        rgba($white, .25);
