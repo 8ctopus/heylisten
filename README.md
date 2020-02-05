@@ -1,4 +1,4 @@
-# Hey!Listen
+# Hey,Listen!
 
 > Hey,Listen! is an app that lets you collect ideas and feedback from your customers and prioritize your roadmap. Clients like the ideas so you can see which features the majority of them want!
 
@@ -13,6 +13,7 @@
 ## Installation
 - Copy `.env.example` to `.env`
 - Edit `.env` to set your database connection details and `APP_URL` (the url to your Laravel application)
+- `composer install`
 - Run `php artisan key:generate` and `php artisan jwt:secret`)
 - `php artisan migrate`
 - `npm install`
