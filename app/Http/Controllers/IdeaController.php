@@ -71,7 +71,7 @@ class IdeaController extends Controller
             $idea->save();
         }
 
-        $idea->sendCreateNotification();
+        // $idea->sendCreateNotification();
 
         return $idea;
     }
