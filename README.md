@@ -13,17 +13,20 @@
 ## Installation
 - Copy `.env.example` to `.env`
 - Edit `.env` to set your database connection details and `APP_URL` (the url to your Laravel application)
-- `composer install`
-- Run `php artisan key:generate` and `php artisan jwt:secret`)
+- Run `composer install`
+- `php artisan key:generate` and `php artisan jwt:secret`)
 - `php artisan migrate`
 - `npm install`
+- Run `php artisan db:seed` to create badge categories in database
 
 ## Usage
 
 ### Development
 
 ```bash
+# run frontend server
 npm run dev
+# run backend server
 php artisan serve
 ```
 
