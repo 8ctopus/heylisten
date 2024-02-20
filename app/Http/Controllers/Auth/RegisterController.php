@@ -73,7 +73,7 @@ class RegisterController extends Controller
 
         $this->createWorkspace($user);
 
-        // $user->sendGreetingNotification();
+        $user->sendGreetingNotification();
 
         return $user->load('workspace');
     }

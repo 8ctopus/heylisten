@@ -30,18 +30,20 @@ class Idea extends Model
         {
             // Image uploaded
             if ($model->image) {
-                $base64 = $model->image; // base64 encoded image
+                // base64 encoded image
+                $base64 = $model->image;
                 unset($model->image);
 
-                // Save image to storage
+                // save image to storage
                 list($baseType, $image) = explode(';', $base64);
                 list(, $image) = explode(',', $image);
                 $image = base64_decode($image);
 
-                // Get the file extension
+                // get file extension
                 if(!preg_match("/^data:image\/(jpeg|gif|png)/i",$baseType, $match)) {
                     throw new \Exception('Invalide mime type');
                 }
+
                 $type = $match[1];
 
                 $fileName = Str::uuid() . ".$type";

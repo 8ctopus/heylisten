@@ -6,7 +6,7 @@
         <!-- Header -->
         <div class="card-header bg-transparent">
           <h1 class="text-primary">{{ $t('sign_up_title') }}</h1>
-          <!-- <p class="text-primary">{{ $t('sign_up_subtitle') }}</p> -->
+          <p class="text-primary">{{ $t('sign_up_subtitle') }}</p>
         </div>
 
         <div class="card-body">

@@ -6,10 +6,14 @@ Vue.use(Router)
 
 const page = path => () => import(`~/pages/${path}`).then(m => m.default || m)
 
-export const routes = [
-  { path: '/', name: 'welcome', component: page('welcome')},
+const routes = [
+  { path: '/', name: 'welcome', component: page('landing/welcome'), alias: ['/ru', '/ja', '/de', '/fr'] },
+  { path: '/about', name: 'welcome.about', component: page('landing/about') },
+  { path: '/policy', name: 'welcome.policy', component: page('landing/policy') },
+  { path: '/faq', name: 'welcome.faq', component: page('landing/faq') },
+
   { path: '/login', name: 'login', component: page('auth/login') },
-  { path: '/register', name: 'register', component: page('auth/register') },
+  //{ path: '/register', name: 'register', component: page('auth/register') },
   { path: '/password/reset', name: 'password.request', component: page('auth/password/email') },
   { path: '/password/reset/:token', name: 'password.reset', component: page('auth/password/reset') },
 

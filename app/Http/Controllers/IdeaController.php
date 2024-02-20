@@ -19,24 +19,30 @@ class IdeaController extends Controller
      */
     public function index(Request $request)
     {
+        // get order
         switch ($request->order) {
             case 'top':
                 $orderRaw = 'CASE WHEN category_id = ' . Category::PINNED . ' THEN -1 ELSE 0 END, votes DESC';
                 break;
+
             case 'hot':
                 // not implemented
                 abort(404);
                 break;
+
             case 'new':
                 $orderRaw = 'created_at DESC';
                 break;
+
             default:
                 abort(404);
                 break;
         }
 
+        // get workspace
         $workspace = Workspace::where('alias', $request->workspace)->firstOrFail();
 
+        // get product
         $product = $workspace->products()->where('slug', $request->product)->firstOrFail();
 
         $user_id = $product->workspace->user_id;
@@ -64,14 +70,15 @@ class IdeaController extends Controller
     public function store(CreateIdeaRequest $request)
     {
         $product = $request->_product;
-        $idea =  $product->ideas()->create($request->all());
+
+        $idea = $product->ideas()->create($request->all());
 
         if ($user = Auth::user()) {
             $idea->user_id = $user->id;
             $idea->save();
         }
 
-        // $idea->sendCreateNotification();
+        $idea->sendCreateNotification();
 
         return $idea;
     }

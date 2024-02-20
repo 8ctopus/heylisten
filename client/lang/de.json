@@ -96,6 +96,387 @@
   "job_title": "Berufsbezeichnung",
   "og_title": "Hey,Listen!",
   "og_description": "Online Feedback Tool, das es erlaubt, Ideen und Anregungen von Deinen Kunden, Kollegen oder Benutzern zu erhalten, zu moderieren und zu messen. So siehst Du deutlich, was Deinen Kunden fehlt!",
+  "landing": {
+    "why_us": "Warum wir?",
+    "features": "Funktionen",
+    "user_scenarios": "Wie kannst Du Hey,Listen! benutzen?",
+    "show_live_preview": "Live-Vorschau zeigen",
+    "scenarios": [
+      {
+        "icon": "lightbulb",
+        "label": "Ideen sammeln",
+        "description": "Erfahre, was Deine Kunden brauchen, um Geschäftserfolg zu verbessern",
+        "url": "https://heylisten.app/ideas-de/ideas_sammeln?headless"
+      },
+      {
+        "icon": "comments", 
+        "label": "Feedback erhalten",
+        "description": "Ein Event durchgeführt? Bitte die Teilnehmer ihre Erfahrungen auszutauschen",
+        "url": "https://heylisten.app/ideas-de/get-feedback?headless"
+      },
+      {
+        "icon": "bug",
+        "label": "Bugs tracken",
+        "description": "Erhalte frühzeitige Berichte von Deinen Kunden und informiere sie über die Fortschritte",
+        "url": "https://heylisten.app/ideas-de/royal-clash?headless"
+      },
+      {
+        "icon": "sort-amount-up",
+        "label": "Roadmap priorisieren",
+        "description": "Sortiere die Ideen und setzte die Prioritäten mit Hilfe von \"Gefällt mir\"-Angaben",
+        "url": "https://heylisten.app/ideas-de/april-sprint?headless"
+      }
+    ],
+    "plans": "Preise",
+    "plans_content": [
+      {
+        "name": "Junghase",
+        "price": "0 € <small class=\"text-muted\">/ Monat</small>",
+        "descriptions": [
+          "1 Projekt",
+          "Für immer gratis"
+        ],
+        "card": "&nbsp"
+      },
+      {
+        "name": "Kaninchen",
+        "price": "9 € <small class=\"text-muted\">/ Monat</small>",
+        "descriptions": [
+          "10 Projekte",
+          "Vorrangige Kundenbetreuung"
+        ],
+        "card": "Keine Kreditkarte erforderlich"
+      },
+      {
+        "name": "Hase",
+        "price": "19 € <small class=\"text-muted\">/ Monat</small>",
+        "descriptions": [
+          "20 Projekte",
+          "Vorrangige Kundenbetreuung"
+        ],
+        "card": "Keine Kreditkarte erforderlich"
+      }
+    ],
+    "plan_need_more": "Brauchst Du mehr als 20 Projekte? <a href=\"mailto:hello@heylisten.app\">Kontaktiere uns</a> für mehr Info.",
+    "buy_plan_button": "Kostenlos testen",
+    "who_is_it_for": "Für wen?",
+    "try_it": "Testen",
+    "try_it_link": "/ideas-de/heylisten",
+    "header_title": "Kunden-Feedback leicht messen",
+    "header_subtitle": "<p>Hey,Listen! ist ein Online Feedback Tool, das es erlaubt, die Zufriedenheit  von Deinen Benutzer zu messen.</p><p>Damit kannst Du Online-Umfragen für Kunden oder Kollegen erstellen.</p><p>Besucher können Ideen posten, kommentieren und  abstimmen.</p><p>So siehst Du deutlich, was Deinen Kunden  fehlt.<p/>",
+    "sign_up_for_free": "Kostenlos registrieren",
+    "and_use_it_for_free": "auch kostenlos benutzen :)",
+    "quick_setup": "Schnell einrichten",
+    "quick_setup_text": "Melde Dich an, erstelle ein Projekt, fülle es mit Ideen und sende den Link zu Deinen Kunden! Superschnell :)",
+    "see_what_your_clients_want": "Erfahre, was Deine Kunden brauchen",
+    "see_what_your_clients_want_text": "Stütze Deine Entscheidungen darauf, was Benutzer wollen. Du kannst die Ideen, die von anderen Besuchern oder von Dir selbst erstellt wurden, als beliebt markieren. Mit nur einem Klick auf \"Beste\" siehst Du alle meist beliebten Ideen!",
+    "easy_moderation": "Einfache Moderation",
+    "easy_moderation_text": "Melde dich als Admin an, um Ideen Deiner Kunden zu kommentieren, zu löschen oder den Ideenstatus zu setzen.",
+    "why_is_it_better": "Warum sind wir besser?",
+    "its_free": "Kostenlos!",
+    "its_free_text": "Alle Anwender, die sich jetzt registrieren, können die App kostenlos benutzen.",
+    "unlimited_walls": "Unbegrenzte Anzahl von Projekten",
+    "unlimited_walls_text": "Du kannst beliebig viele Projekte erstellen!",
+    "languages_support": "Wir unterstützen 5 Sprachen",
+    "languages_support_text": "Die App gibt es auf Englisch, Deutsch, Französisch, Japanisch und Russisch.",
+    "sign_up_for_your_free_account": "Registriere Dich jetzt für ein kostenloses Konto",
+    "sign_up_for_your_free_account_text": "Hey,Listen! ist noch in der Entwicklungsphase, also Du kannst die App kostenlos genießen. Keine Kreditkarte ist erforderlich.",
+    "features_title1": "Neue Ideen hinzufügen",
+    "features_text1": "Deine Kunden können unlimitierte Anzahl der neuen Ideen erstellen",
+    "features_title2": "Setze einen Status für jede Idee",
+    "features_text2": "Für jede Idee kannst Du gemäß Ihrem Stand ein Status wie \"Wahrscheinlich\", \"Geplant\", \"im Laufen\" oder \"Implementiert\" setzen.",
+    "features_title3": "Unbegrenzte Anzahl der Projekte",
+    "features_text3": "Du kannst beliebig viele Projekte erstellen",
+    "features_title4": "Ideen kommentieren",
+    "features_text4": "Deine Kunden können die Ideen von anderen lesen und kommentieren.",
+    "features_title5": "Als Administrator Ideen kommentieren",
+    "features_text5": "Du kannst die Ideen deiner Kunden als Administrator kommentieren",
+    "features_title6": "Lokalisierung",
+    "features_text6": "Die App unterstützt 5 Sprachen: Englisch, Deutsch, Französisch, Japanisch und Russisch",
+    "features_title7": "Ideen löschen",
+    "features_text7": "Als Administrator kannst Du doppelte Ideen löschen oder Vorschläge, die keinen Sinn erben, entfernen",
+    "features_title8": "Nach neuesten sortieren",
+    "features_text8": "Sortiere Ideen, um die neuesten ganz oben in der Liste zu sehen",
+    "features_title9": "HTTPS-Unterstützung",
+    "features_text9": "Daten zwischen Browser und Web-Server werden gesichert übertragen",
+    "features_title10": "Ideen als \"Gefällt mir\" markieren",
+    "features_text10": "Besucher können Ideen als \"Gefällt mir\" markieren, so dass es ganz übersichtlich wird, welche Funktionen am meisten angefragt sind",
+    "features_title11": "Nach beliebten sortieren",
+    "features_text11": "Sortiere Ideen, um die beliebtesten ganz oben in der Liste zu sehen",
+    "features_title12": "Email-Benachrichtigungen",
+    "features_text12": "Bekomme eine Benachrichtigung per Email jedes Mal wenn eine neue Idee hinzugefügt wird",
+    "no_but_i_have_an_idea": "Nö, aber ich habe einen Vorschlag",
+    "its_a_free_beta": "Das ist eine kostenlose Beta-Version!",
+    "its_a_free_beta_text": "<p>Die App ist noch in der Entwicklungsphase, Du kannst sie benutzen ohne einen Cent zu bezahlen :)</p><p>Zusätzlich werden die ersten 100 Abonnenten  alle Funktionen bis Januar 2020 kostenlos benutzen können!</p>",
+    "small_businesses": "Kleinunternehmen",
+    "small_businesses_text": "Nutze Ideen deiner Kunden, um Dein Unternehmen schnell zu vergrößern.",
+    "software_developers": "Software-Entwickler",
+    "software_developers_text": "Benutze das Kunden-Feedback, um die neuen Funktionen zu planen und sofortige Benachrichtigungen zu bekommen, wenn etwas nicht funktioniert. ",
+    "marketers": "Vermarkter",
+    "marketers_text": "Sammle Feedback Deiner Käufer, um die Strategie darauf aufzubauen, was Kunden wirklich wollen.",
+    "faq": "FAQ",
+    "feedback": "Feedback",
+    "email_us": "Email",
+    "about_us": "Über uns",
+    "privacy_policy": "Datenschutzrichtlinie",
+    "gifs": [
+      {
+        "src": "/gifs/de/1-intro.gif",
+        "stub": "/gifs/de/1-intro.jpg",
+        "alt": "Kundenzufriedenheit messen"
+      },
+      {
+        "src": "/gifs/de/2-quick-setup.gif",
+        "stub": "/gifs/de/2-quick-setup.jpg",
+        "alt": "Fragenbogen erstellen"
+      },
+      {
+        "src": "/gifs/de/3-see-what-users-want.gif",
+        "stub": "/gifs/de/3-see-what-users-want.jpg",
+        "alt": "Online Umfrage erstellen"
+      },
+      {
+        "src": "/gifs/de/4-easy-moderation.gif",
+        "stub": "/gifs/de/4-easy-moderation.jpg",
+        "alt": "Kundenzufriedenheitsanalyse"
+      }
+    ],
+    "alt": {
+      "blurrder_plans": "Kundenfeedback kostenlos sammeln",
+      "five_languages": "Kundenbefragung Online erstellen",
+      "its_free": "Kundenzufriedenheitsanalyse",
+      "marketers": "Ideen sammeln",
+      "small_buisiness": "Brainstorming Tool",
+      "software_devs": "Kundenanalyse durchführen",
+      "unlimited_walls": "Mitarbeiterfeedback erhalten"
+    },
+    "featured_in": "Erwähnt in",
+    "featured_in_links": [
+      {
+        "src": "/logos/en-ph.png",
+        "alt": "www.producthunt.com",
+        "link": "https://www.producthunt.com/posts/hey-listen"
+      },
+      {
+        "src": "/logos/en-beta.png",
+        "alt": "betalist.com",
+        "link": "https://betalist.com/startups/hey-listen"
+      },
+      {
+        "src": "/logos/en-alt.png",
+        "alt": "alternativeto.net",
+        "link": "https://alternativeto.net/software/hey-listen-/"
+      },
+      {
+        "src": "/logos/en-g2.png",
+        "alt": "www.g2crowd.com",
+        "link": "https://www.g2crowd.com/products/hey-listen/details"
+      },
+      {
+        "src": "/logos/fr-cap.png",
+        "alt": "www.capterra.fr",
+        "link": "https://www.capterra.fr/software/183238/heylisten-"
+      },
+      {
+        "src": "/logos/de-trusted.png",
+        "alt": "trusted.de",
+        "link": "https://trusted.de/hey-listen"
+      },
+      {
+        "src": "/logos/jp-free.png",
+        "alt": "freesoft-100.com",
+        "link": "https://freesoft-100.com/plus/20190207.html"
+      },
+      {
+        "src": "/logos/de-kn.png",
+        "alt": "kundennutzen.ch",
+        "link": "https://kundennutzen.ch/werkzeug1593.php"
+      },
+      {
+        "src": "/logos/en-betabound.png",
+        "alt": "www.betabound.com",
+        "link": "https://www.betabound.com/hey-listen-public-beta/"
+      },
+      {
+        "src": "/logos/pepites-tech-blue-small.png",
+        "alt": "lespepitestech.com",
+        "link": "https://lespepitestech.com/startup-de-la-french-tech/heylisten"
+      },
+      {
+        "src": "/logos/suitapp-logo-small.png",
+        "alt": "suitapp.de",
+        "link": "https://suitapp.de/software/heylisten/"
+      },
+      {
+        "src": "https://www.quelsoft.com/quelsoft-wOqD1XvffFyOJD1mJW0YG8VAb.jpg",
+        "alt": "Quelsoft, Annuaire des solutions informatiques professionnelles",
+        "link": "https://www.quelsoft.com"
+      }
+    ],
+    "awards": "Auszeichnungen",
+    "about_header": "Wir machen Kompliziertes einfach <br> seit 2004",
+    "contact_us": "Kontakt",
+    "abous_us_content": "<p>Wir sind das Team von CopyTrans - die Software für eine einfache iPhone-Datenverwaltung unter Windows.</p><p>Ursprünglich haben wir das Tool Hey,Listen! für uns selbst entwickelt um das Kundenfeedback unmittelbar aus unseren Programmen zu erhalten.</p><p>Nun freuen wir uns das Tool mit euch zu teilen und hoffen, dass ihr das nützlich findet.</p>",
+    "contact_us_content": "<p><b>Ursa Minor Ltd</b></p><p>1st Floor Felix House, 24 Dr. Joseph Rivière</p><p>11602 Port Louis, Mauritius</p><p>Email: <a href=\"mailto:hello@heylisten.app\" class=\"text-white\">hello@heylisten.app</a></p>",
+    "any_further_questions": "Weitere Fragen?",
+    "any_further_questions_contact_us": "Kontaktiere bitte unverzüglich unser Support-Team unter <a href=\"mailto:hello@heylisten.app\" class=\"text-white\">hello@heylisten.app</a>",
+	"frequently_asked_questions": "Häufig gestellte Fragen",
+"frequently_asked_questions_description": "Wir sind sicher, dass Hey,Listen! Dir helfen wird, mit deinen Kunden zu kommunizieren und Deine Produkte zu verbessern. Damit Du dich in der App sicherer fühlst, haben wir diese hilfreiche FAQ zusammengestellt. ",
+    "privacy_chapters": [
+      {
+        "title": "General",
+        "paragraphs": [
+          "Please read this License Agreement (the “Agreement”) before using the https://heylisten.app website (the “Service”) operated by Ursa Minor Ltd. (“Ursa Minor”).",
+          "By accessing and using the Service, User indicates their complete and unconditional acceptance of the Agreement. If User disagrees with any part of the License Agreement, then they may not access the Service.",
+          "The information contained in the Service is subject to change without notice and does not represent a commitment or contracted obligation on the part of Ursa Minor.",
+          "User agrees to use the Service in accordance with the Agreement. Ursa Minor may amend or modify the Agreement at any time."
+        ]
+      },
+      {
+        "title": "Subscription and Free Trial",
+        "paragraphs": [
+          "While in Beta stage, Ursa Minor agrees to provide the Service free of charge. The first 100 Users get all features free of charge until January 1, 2020. At any time and without notice, Ursa Minor reserves the right to modify the terms and conditions of the offer or cancel it."
+        ]
+      },
+      {
+        "title": "Content",
+        "paragraphs": [
+          "The Service allows to post, link, store, share and otherwise make available certain information and text (the \"Content\"). A User is responsible for the Content posted to the Service, including its legality, reliability, and appropriateness.",
+          "By posting Content to the Service, User grants Ursa Minor the right and license to use, modify, publicly perform, publicly display, reproduce such Content on and through the Service. User retains all rights to the Content submitted, posted or displayed on or through the Service and responsible for protecting those rights. User agrees that this license includes the right for Ursa Minor to make Content available to other Users of the Service."
+        ]
+      },
+      {
+        "title": "Accounts",
+        "paragraphs": [
+          "User is obligated to provide Ursa Minor with information that is accurate, complete and up-to-date upon creating an account. Failure to do so constitutes a breach of the Terms, which may result in immediate termination of User’s account on the Service.",
+          "User is responsible for safeguarding the password that is used to access the Service and for any activities or actions under the password. User agrees not to disclose the password to any third party. User is obligated to notify Ursa Minor immediately upon becoming aware of any breach of security or unauthorized use of the account.",
+          "User may not use as a username the name of another person or entity or that is not lawfully available for use, a name or trademark that is subject to any rights of another person or entity without appropriate authorization, or a name that is otherwise offensive, vulgar or obscene."
+        ]
+      },
+      {
+        "title": "Copyright Policy",
+        "paragraphs": [
+          "Ursa Minor respects the intellectual property rights of others. Ursa Minor will respond to any claim that Content posted on the Service infringes the copyright or other intellectual property infringement (\"Infringement\") of any person.",
+          "If you are a copyright owner or authorized on behalf of one, and you believe that the copyrighted work has been copied in a way that constitutes copyright infringement that is taking place through the Service, you must submit your notice to hello@heylisten.app and include a detailed description of the alleged Infringement in your notice.",
+          "You may be held accountable for damages (including costs and attorneys' fees) for misrepresenting that any Content is infringing your copyright."
+        ]
+      },
+      {
+        "title": "Intellectual Property",
+        "paragraphs": [
+          "The Service and its original content (excluding Content provided by Users), features and functionality are and will remain the exclusive property of Ursa Minor and its licensors. The Service is protected by copyright, trademark, and other laws of both Mauritius and foreign countries. Our trademarks and trade dress may not be used in connection with any product or service without the prior written consent of Ursa Minor."
+        ]
+      },
+      {
+        "title": "Links To Other Web Sites",
+        "paragraphs": [
+          "The Service may contain links to third-party web sites or services that are not owned or controlled by Ursa Minor.",
+          "Ursa Minor has no control over and assumes no responsibility for the content, privacy policies, or practices of any third party web sites or services. User acknowledges and agrees that Ursa Minor shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any such content, goods or services available on or through any such web sites or services.",
+          "We strongly advise you to read the terms and conditions and privacy policies of any third-party web sites or services that you visit."
+        ]
+      },
+      {
+        "title": "Termination",
+        "paragraphs": [
+          "Ursa Minor may terminate or suspend User’s account immediately, without prior notice or liability, for any reason whatsoever, including without limitation of breaching the Terms.",
+          "Upon termination, User’s right to use the Service will immediately cease. If User wishes to terminate their account, you may simply discontinue using the Service."
+        ]
+      },
+      {
+        "title": "Limitations of Liability",
+        "paragraphs": [
+          "Ursa Minor disclaims any and all liability for incidental or consequential damages arising out of the use or operation of or inability to use the Service, even if Ursa Minor has been advised of the possibility of such damages. Furthermore, the User indemnifies and agrees to hold Ursa Minor harmless from such claims."
+        ]
+      },
+      {
+        "title": "Copyright Notices",
+        "paragraphs": [
+          "The Service is the property of Ursa Minor. All rights for the Service belong to Ursa Minor. These rights are not transferred as part of this Agreement."
+        ]
+      },
+      {
+        "title": "Limitations of Use",
+        "paragraphs": [
+          "The User may not copy or use the Service in any way, in whole or in part. The User may not modify, reverse engineer, decompile the Service or modify or reproduce the Service documentation."
+        ]
+      },
+      {
+        "title": "Place of Jurisdiction",
+        "paragraphs": [
+          "Ursa Minor is a registered Mauritian company and this agreement is governed by Mauritian laws.",
+          "",
+          "February 26, 2019",
+          "",
+          "Ursa Minor Ltd",
+          "24 Dr Joseph Rivière",
+          "Port Louis",
+          "Mauritius"
+        ]
+      }
+    ],
+    "faq_chapters": [
+      {
+        "title": "Womit beginnt man?",
+        "anchor": "get-started",
+        "description": "Erfahre über die Grundlagen von Hey,Listen",
+        "content": "<p> Um mit Hey,Listen! zu beginnen, muss man sich zuerst registrieren, indem man den \"Registrieren\"-Button anklickt. Gib bitte die für die Registrierung notwendigen Angaben auf der nächsten Registrierungsseite an: Deine E-Mail-Adresse, Deinen Namen und das Passwort. Alle Felder müssen ausgefüllt werden.</p><p>Bitte bewahre das Passwort an einem sicheren Ort auf, aber mache Dir keine Sorgen, wenn Du dieses vergisst! Du kannst immer Dein Passwort mit Hilfe Deiner E-Mail-Adresse zurücksetzen. </p><p>Deine E-Mail-Adresse wird auch benutzt, um Dir die Benachrichtigungen zu senden, z.B. wenn eine neue Idee zu einem von Deinen Projekten hinzugefügt wird. Du kannst denselben Account benutzen, um Deine Projekte von verschiedenen Geräten zu verwalten sowie die Administratorrechte an Deine Kollegen zu vergeben.</p>"
+      },
+      {
+        "title": "Ein Projekt erstellen",
+        "anchor": "create-a-project",
+        "description": "Wie erstellt man ein Projekt?",
+        "content": "<p>Willkommen bei Deinem Arbeitsbereich – hier kannst Du verschiedene Projekte erstellen: für Deine Webseite, Apps, Produkte, Geschäfte uvm.</p><p>Fahr fort und erstelle Dein erstes Projekt. Dafür musst Du den Namen für Dein Projekt wählen, auch eine Kurz-URL muss erstellt werden. Tippe einfach den Namen ein und Du siehst, dass die Kurz-URL automatisch generiert wird.</p><p>Diese Kurz-URL (auch Slug genannt) ist ein Teil des Links, den Du Deinen Kunden zuschicken wirst oder den Du für Deine Webseite / Software benutzen wirst. Es ist sinnvoll diese URL kurz und konsequent zu lassen, dann kriegst Du kein Durcheinander in der Zukunft.</p><p>Fertig? Geh jetzt zu Deinen Projekten, indem Du auf den Projektnamen oder das Augesymbol klickst.</p><p> Du kannst jederzeit den Projektnamen und die Kurz-URL editieren – nur das Stift-Symbol anklicken, um diese zu ändern.</p>"
+      },
+      {
+        "title": "Deinen Arbeitsbereich benennen",
+        "anchor": "name-your-workspace",
+        "description": "Was ist Arbeitsbereich? Wie kann man den Arbeitsbereich umbenennen?",
+        "content": "<p>Der Name für den Arbeitsbereich wird automatisch zufallsmäßig generiert und stellt eine Kombination aus Nummern und Buchstaben dar. Um diesen verständlicher zu machen, kannst Du einen speziellen Namen für Deinen Arbeitsbereich bestimmen. Der wird auch ein Teil von dem Link sein, man kann also den Firmennamen oder was anderes, das für Dich eine Bedeutung hat, benutzen. </p><p>Um den Namen von dem Arbeitsbereich zu ändern, klick bitte auf Profil → Einstellungen.</p><p>Bitte Folgendes zu beachten: Wenn Du schon diesen Link auf deiner Webseite geteilt hast oder Deinen Kunden geschickt hast, vergiss bitte nicht diesen Link gemäß Deinen Änderungen zu aktualisieren!</p>"
+      },
+      {
+        "title": "Idee hinzufügen",
+        "anchor": "add-an-idea",
+        "description": "Wie kann man eine Idee hinzufügen?",
+        "content": "<p>Ein kleiner Tipp: Keiner will der Erste auf dem Dancefloor sein, deshalb empfehlen wir sehr, Deine eigene Ideen am Anfang als erste Ideen hinzuzufügen. Wenn die ersten Benutzer auf Deine Seite landen, können sie schon einige Vorschläge sehen und diese als \"Gefällt mir\" markieren oder sie werden dazu inspiriert, die neuen Ideen zu lassen.</p><p>Um eine Idee zu erstellen, klick auf \"Ich habe eine Idee!\"-Button und erkläre in einigen Wörtern, was Dein Anliegen ist. Wenn Du noch einige weitere Informationen geben möchtest, kannst Du das Beschreibungsfeld unten benutzen. Wenn Du fertig bist, klick auf \"Absenden\". Deine Idee wird auf der Seite Deines Projekts veröffentlicht.</p>"
+      },
+      {
+        "title": "Einen Kommentar hinzufügen",
+        "anchor": "add-a-comment",
+        "description": "Wie kann ich einen Kommentar hinzufügen?",
+        "content": "<p>Kommunikation ist der Schlüssel! Klicke auf den Ideenamen, um die Idee zu lesen und die Kommentare zu posten. Wenn Du eine offizielle Antwort veröffentlichen möchtest, stell sicher, dass Du angemeldet bist, dann kannst Du als Administrator kommentieren.</p><p>Tipp: Möchtest Du als Anonym kommentieren? Kopiere die URL Deiner Idee und öffne diese in einem Browser, wo Du nicht eingeloggt bist. Du kannst als Benutzer kommentieren!</p>"
+      },
+      {
+        "title": "Idee als \"Gefällt mir\" markieren",
+        "anchor": "like-an-idea",
+        "description": "Wie kann ich Idee als \"Gefällt mir\" markieren?",
+        "content": "<p>Unten jeder Idee kann man ein kleines Herzsymbol sehen. Du kannst beliebige Idee als \"Gefällt mir\" oder als \"Gefällt mir nicht mehr\" markieren, wenn Du Deine Meinung änderst.</p><p>Damit Deine Idee unter besten ist und dann höchstwahrscheinlich implementiert wird, vergiss nicht diese als \"Gefällt mir\" zu markieren.</p>"
+      },
+      {
+        "title": "Ideen sortieren",
+        "anchor": "sort-ideas",
+        "description": "Wie kann ich die Ideen sortieren?",
+        "content": "<p>Standardmäßig sind die Ideen gemäß der Anzahl von \"Gefällt mir\"-Herzchen sortiert (mit Ausnahme der Ideen, die als \"Wahrscheinlich\" markiert sind). Das heißt \"Beste Ideen\". </p><p>Man kann auf \"Neue\" klicken, um die Ideen chronologisch anzuordnen, dadurch bleibst Du immer auf dem neuesten Stand. Du kannst selbst entscheiden.</p>"
+      },
+      {
+        "title": "Ideen den Status setzen",
+        "anchor": "tag-ideas",
+        "description": "Wie kann ich einer Idee den Status setzen?",
+        "content": "<p>Eine andere Weise, mit den Kunden zu kommunizieren, ist die Möglichkeit den Status zu setzen. Der Status gewährleistet volle Transparenz von Deinen Entscheidungen und zeigt auch das Engagement bei der Lösung des Problems. Du kannst einen der 4 Status wählen:</p><ul><li>Geplant</li><li>Implementiert</li><li>Im Laufen</li><li>Wahrscheinlich</li></ul>"
+      },
+      {
+        "title": "Projekte verwalten",
+        "anchor": "manage-your-projects",
+        "description": "Wie kann man Projekte erstellen, bearbeiten und löschen?",
+        "content": "<p>Wenn Du dich als Admin angemeldet hast, hast Du das Recht, Ideen oder Kommentare zu löschen. Du kannst auch den Namen und die Kurz-URL des Projekts bearbeiten oder sogar selbst das Projekt löschen, wenn Du es nicht mehr brauchst.</p>"
+      },
+      {
+        "title": "Preise & Zahlung",
+        "anchor": "plans-and-payments",
+        "description": "Über Preise und Zahlung",
+        "content": "<p>Zurzeit bietet Hey,Listen! eine kostenlose Testperiode für die ersten 100 Benutzer. Während dieser Testperiode kannst Du alle Funktionen von Hey,Listen! kostenlos benutzen - es werden keine Gebühren erhoben, keine Kreditkarte ist erforderlich.</p><p>Die App bleibt kostenlos für die erwähnten 100 Abonnenten bis 31. Januar 2020. Wenn die Testperiode zu Ende ist, können einige Funktionen von Hey,Listen! kostenpflichtig werden. Du wirst eine Benachrichtigung 2 Wochen im Vorhinein bekommen, wenn Deine Testperiode zu Ende ist.</p><p>Du kannst dann zu dem kostenlosen Plan wechseln, auf ein kostenpflichtiges Plan mit zusätzlichen Funktionen aktualisieren oder eine andere Option wählen.</p><p> Wir verbessern ständig Hey,Listen, um die Erwartungen unserer Kunden zu erfüllen. Solltest Du Verbesserungsvorschläge oder andere Anregungen haben, zögere bitte nicht, Deine Kommentare auf unserer <a href=\"/ideas-de/heylisten\">Testseite</a> zu lassen.</p>"
+      }
+    ]
+  },
   "project_page": {
     "registration_greeting": "<p>Vielen Dank für Deine Anmeldung! Nun kannst Du Hey,Listen! kostenlos bis zum 31. Januar 2020 genießen.  🙂</p><p> Zwei Wochen vor Ablauf der kostenlosen Probeversion wirst Du eine E-Mail-Benachrichtigung von uns bekommen.</p><p>Dann kannst Du Deine Zahlungsdaten aktualisieren oder auf den kostenlosen Plan wechseln.</p>"
   }

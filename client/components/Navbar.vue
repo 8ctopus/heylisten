@@ -14,22 +14,25 @@
       </button>
 
       <div id="navbarToggler" class="collapse navbar-collapse">
-
         <ul class="navbar-nav">
-        <locale-dropdown/>
-
           <li class="nav-item">
             <router-link v-if="authenticated" :to="{ name: 'home', params: { workspace } }" class="nav-link">
               {{ $t('product_list_href') }}
             </router-link>
           </li>
+
+          <li class="nav-item">
+            <router-link :to="{ name: 'welcome.faq' }" class="nav-link">{{ $t('landing.faq') }}</router-link>
+          </li>
         </ul>
 
         <ul class="navbar-nav ml-auto">
+          <locale-dropdown/>
+
           <!-- Authenticated -->
           <li v-if="user" class="nav-item dropdown">
             <a class="nav-link dropdown-toggle "
-                href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+               href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
               <img :src="user.photo_url" class="rounded-circle profile-photo mr-1">
               {{ user.name }}
             </a>
@@ -52,6 +55,7 @@
             </div>
           </li>
           <!-- Guest -->
+          <!--
           <template v-else>
             <li class="nav-item">
               <router-link :to="{ name: 'login' }" class="nav-link" active-class="active">
@@ -64,6 +68,7 @@
               </router-link>
             </li>
           </template>
+          -->
         </ul>
       </div>
     </div>

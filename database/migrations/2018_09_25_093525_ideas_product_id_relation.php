@@ -16,7 +16,7 @@ class IdeasProductIdRelation extends Migration
     {
         Schema::table('ideas', function (Blueprint $table) {
             $table->integer('product_id')->unsigned()->after('id')->nullable();
-            $table->foreign('product_id')->references('id')->on('products');
+            //$table->foreign('product_id')->references('id')->on('products');
         });
     }
 

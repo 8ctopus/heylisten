@@ -96,6 +96,387 @@
   "job_title": "役職",
   "og_title": "Hey,Listen!",
   "og_description": "Hey,Listen!は誰でもからのアイデア、希望機能やフィードバックを集めることができるツールです。",
+  "landing": {
+    "why_us": "Hey,Listen!の特長",
+    "features": "機能紹介",
+    "user_scenarios": "Hey,Listen!はこんな時に役に立つ",
+    "show_live_preview": "今すぐライブデモを試す",
+    "scenarios": [
+      {
+        "icon": "lightbulb",
+        "label": "アイデアの収集",
+        "description": "事業で成功するため、顧客の希望がわかる",
+        "url": "https://heylisten.app/ideas-jp/rabbit-cafe?headless"
+      },
+      {
+        "icon": "comments",
+        "label": "フィードバックを得る",
+        "description": "イベントを開催しましたか？参加者に経験を共有するのを頼む",
+        "url": "https://heylisten.app/ideas-jp/business-workshop?headless"
+      },
+      {
+        "icon": "bug",
+        "label": "バグ・トラッカー",
+        "description": "ユーザーからバッグ報告を集めて、進捗状況を伝える",
+        "url": "https://heylisten.app/ideas-jp/royal-clash?headless"
+      },
+      {
+        "icon": "sort-amount-up",
+        "label": "ロードマップの優先",
+        "description": "投票でアイデアをソートし、優先目標を定める",
+        "url": "https://heylisten.app/ideas-jp/april-sprint?headless"
+      }
+    ],
+    "plans": "プラン",
+    "plans_content": [
+      {
+        "name": "フリー",
+        "price": "¥0<small class=\"text-muted\">/月</small>",
+        "descriptions": [
+          "1つのプロジェクト",
+          "いつまでも無料"
+        ],
+        "card": "&nbsp"
+      },
+      {
+        "name": "ライト",
+        "price": "¥980<small class=\"text-muted\">/月</small>",
+        "descriptions": [
+          "10つのプロジェクト",
+          "優先サポート"
+        ],
+        "card": "クレジットカード不要"
+      },
+      {
+        "name": "プロ",
+        "price": "¥1890<small class=\"text-muted\">/月</small>",
+        "descriptions": [
+          "20つのプロジェクト",
+          "優先サポート"
+        ],
+        "card": "クレジットカード不要"
+      }
+    ],
+    "plan_need_more": "20つ以上のプロジェクトが必要になったときには、販売チームまで<a href=\"mailto:hello@heylisten.app\">ご連絡ください</a>。",
+    "buy_plan_button": "無料でお試し",
+    "who_is_it_for": "利用例",
+    "try_it": "今すぐ試す！",
+    "try_it_link": "/ideas-jp/heylisten",
+    "header_title": "お客様が望むことを今すぐわかる！",
+    "header_subtitle": "Hey,Listen!はお客様だけでなく、同僚、チームメンバー・・・誰でもからのアイデア、希望機能やフィードバックを集めるツールです。",
+    "sign_up_for_free": "今すぐサインアップ",
+    "and_use_it_for_free": "クレジットカード不要",
+    "quick_setup": "かんたんセットアップ",
+    "quick_setup_text": "<p>１．ログイン</p><p>２．プロジェクトを作成</p><p>３．アイデアを追加</p><p>４．お客様とリンクを共有</p><p>こんなに簡単です！</p>",
+    "see_what_your_clients_want": "お客様の希望をわかる",
+    "see_what_your_clients_want_text": "お客様が実際に望むものに基づいて、ビジネス決定。投稿したアイデアを投票とコメントの件数で並べ替えると、もっとも人気のあるアイデアは何とすぐ知ることができる。",
+    "easy_moderation": "シンプル管理",
+    "easy_moderation_text": "管理パネルにログインすると、管理者としてアイデアをコメント、削除、ラベル（計画中、ホット、進行中、完成）を付けることができる。",
+    "why_is_it_better": "Hey,Listen! の特徴・メリット",
+    "its_free": "長期間トライアル",
+    "its_free_text": "最初の100人の加入者は2020年1月31日まで無料のアップデートを取得します。",
+    "unlimited_walls": "複数のプロジェクト作成可能",
+    "unlimited_walls_text": "好きなだけプロジェクトを作成しましょう！",
+    "languages_support": "5つの言語に対応",
+    "languages_support_text": "日本語、英語、ドイツ語、フランス語およびロシア語に対応しています。",
+    "sign_up_for_your_free_account": "今すぐサインアップ",
+    "sign_up_for_your_free_account_text": "Hey,Listen! はまだ開発中なので、無料でお楽しみください！最初の100人の加入者は1月2020年まですべての機能を無料で使用できます。",
+    "features_title1": "アイデアを追加",
+    "features_text1": "追加できるアイデア数は無制限",
+    "features_title2": "アイデアにラベルを付ける",
+    "features_text2": "アイデアの開発状態によってラベル（計画中、ホット、進行中、完成）を追加",
+    "features_title3": "複数のプロジェクト",
+    "features_text3": "さまざまなプロジェクトを作成可能",
+    "features_title4": "アイデアをコメント",
+    "features_text4": "お客様はお互いのアイデアにコメント",
+    "features_title5": "管理者としてコメント・返信",
+    "features_text5": "管理者はお客様のアイデアに返信",
+    "features_title6": "5つの言語に対応",
+    "features_text6": "日本語、英語、ドイツ語、フランス語およびロシア語に対応",
+    "features_title7": "アイデアを削除",
+    "features_text7": "管理者として重複アイデアやスパムを削除",
+    "features_title8": "新規アイデアを表示",
+    "features_text8": "アイデアを「最近」でソート",
+    "features_title9": "HTTPSに対応",
+    "features_text9": "ブラウザーとサーバー間に安全に情報を通信",
+    "features_title10": "アイデアを投票",
+    "features_text10": "お客様は好きなアイデアに「いいね」を付ける",
+    "features_title11": "アイデアをもっと人気でソート",
+    "features_text11": "もっとも人気のあるアイデアは何とすぐわかる",
+    "features_title12": "Eメールで通知",
+    "features_text12": "新規アイデアはプロジェクトに追加されるたびにEメール通知を受け取る",
+    "no_but_i_have_an_idea": "後で。サービス改善のアイデアがあります！",
+    "its_a_free_beta": "無料のベータ版！",
+    "its_a_free_beta_text": "<p>Hey,Listen! はまだ開発中ですので、無料でお楽しみください！</p><p>最初の100人の加入者は2020年1月31日まですべての機能を無料で使用できます！</p>",
+    "small_businesses": "小営業向け",
+    "small_businesses_text": "お客様からアイデアを得て、ビジネスを拡大する。",
+    "software_developers": "ソフトウェア開発者向け",
+    "software_developers_text": "ソフトのユーザーが何を必要としているかに基づいて新機能に優先順位をつける。ソフト内で不具合が発生した場合は、すぐに通知を受け取る。",
+    "marketers": "マーケター向け",
+    "marketers_text": "お客様からのアイデアやフィードバックを集めて、成功するマーケティング戦略を立てる。",
+    "faq": "サポート",
+    "feedback": "フィードバック",
+    "email_us": "お問い合わせ",
+    "about_us": "会社概要",
+    "privacy_policy": "プライバシーポリシー",
+    "gifs": [
+      {
+        "src": "/gifs/jp/1-intro.gif",
+        "stub": "/gifs/jp/1-intro.png",
+        "alt": "アイデア・フィードバックを送信"
+      },
+      {
+        "src": "/gifs/jp/2-quick-setup.gif",
+        "stub": "/gifs/jp/2-quick-setup.png",
+        "alt": "フィードバックツールをセットアップ"
+      },
+      {
+        "src": "/gifs/jp/3-see-what-users-want.gif",
+        "stub": "/gifs/jp/3-see-what-users-want.png",
+        "alt": "アイデアを「人気」と「最近」でソート"
+      },
+      {
+        "src": "/gifs/jp/4-easy-moderation.gif",
+        "stub": "/gifs/jp/4-easy-moderation.png",
+        "alt": "お客様のアイデアを管理"
+      }
+    ],
+    "alt": {
+      "blurrder_plans": "Hey,Listen!のプラン",
+      "five_languages": "5つの言語に対応",
+      "its_free": "長期間トライアル",
+      "marketers": "マーケター向け",
+      "small_buisiness": "小営業向け",
+      "software_devs": "ソフトウェア開発者向け",
+      "unlimited_walls": "複数のプロジェクト作成可能"
+    },
+    "featured_in": "レビュー",
+    "featured_in_links": [
+      {
+        "src": "/logos/en-ph.png",
+        "alt": "www.producthunt.com",
+        "link": "https://www.producthunt.com/posts/hey-listen"
+      },
+      {
+        "src": "/logos/en-beta.png",
+        "alt": "betalist.com",
+        "link": "https://betalist.com/startups/hey-listen"
+      },
+      {
+        "src": "/logos/en-alt.png",
+        "alt": "alternativeto.net",
+        "link": "https://alternativeto.net/software/hey-listen-/"
+      },
+      {
+        "src": "/logos/en-g2.png",
+        "alt": "www.g2crowd.com",
+        "link": "https://www.g2crowd.com/products/hey-listen/details"
+      },
+      {
+        "src": "/logos/fr-cap.png",
+        "alt": "www.capterra.fr",
+        "link": "https://www.capterra.fr/software/183238/heylisten-"
+      },
+      {
+        "src": "/logos/de-trusted.png",
+        "alt": "trusted.de",
+        "link": "https://trusted.de/hey-listen"
+      },
+      {
+        "src": "/logos/jp-free.png",
+        "alt": "freesoft-100.com",
+        "link": "https://freesoft-100.com/plus/20190207.html"
+      },
+      {
+        "src": "/logos/de-kn.png",
+        "alt": "kundennutzen.ch",
+        "link": "https://kundennutzen.ch/werkzeug1593.php"
+      },
+      {
+        "src": "/logos/en-betabound.png",
+        "alt": "www.betabound.com",
+        "link": "https://www.betabound.com/hey-listen-public-beta/"
+      },
+      {
+        "src": "/logos/pepites-tech-blue-small.png",
+        "alt": "lespepitestech.com",
+        "link": "https://lespepitestech.com/startup-de-la-french-tech/heylisten"
+      },
+      {
+        "src": "/logos/suitapp-logo-small.png",
+        "alt": "suitapp.de",
+        "link": "https://suitapp.de/software/heylisten/"
+      },
+      {
+        "src": "https://www.quelsoft.com/quelsoft-wOqD1XvffFyOJD1mJW0YG8VAb.jpg",
+        "alt": "Quelsoft, Annuaire des solutions informatiques professionnelles",
+        "link": "https://www.quelsoft.com"
+      }
+    ],
+    "awards": "特別賞",
+    "about_header": "難しいものを簡単に <br> 2004年から",
+    "contact_us": "お問い合わせ",
+    "abous_us_content": "<p>Windows上でiPhoneデータを簡単に管理するCopyTransソフトウェアのチームです。</p><p>CopyTrans ソフトについて顧客からのフィードバックを直接に得るため、「Hey,Listen!」というWebサービスを開発しました。</p><p>ぜひHey,Listen!を試してみてください！</p>",
+    "contact_us_content": "<p><b>Ursa Minor Ltd</b></p><p>1st Floor Felix House, 24 Dr. Joseph Rivière</p><p>11602 Port Louis, Mauritius</p><p>Eメール: <a href=\"mailto:hello@heylisten.app\" class=\"text-white\">hello@heylisten.app</a></p>",
+    "any_further_questions": "さらに質問はありますか。",
+    "any_further_questions_contact_us": "お気軽にHey,Listen!サポートチーム<a href=\"mailto:hello@heylisten.app\" class=\"text-white\">hello@heylisten.app</a>までお問い合わせください。",
+    "privacy_chapters": [
+      {
+        "title": "General",
+        "paragraphs": [
+          "Please read this License Agreement (the “Agreement”) before using the https://heylisten.app website (the “Service”) operated by Ursa Minor Ltd. (“Ursa Minor”).",
+          "By accessing and using the Service, User indicates their complete and unconditional acceptance of the Agreement. If User disagrees with any part of the License Agreement, then they may not access the Service.",
+          "The information contained in the Service is subject to change without notice and does not represent a commitment or contracted obligation on the part of Ursa Minor.",
+          "User agrees to use the Service in accordance with the Agreement. Ursa Minor may amend or modify the Agreement at any time."
+        ]
+      },
+      {
+        "title": "Subscription and Free Trial",
+        "paragraphs": [
+          "While in Beta stage, Ursa Minor agrees to provide the Service free of charge. The first 100 Users get all features free of charge until January 1, 2020. At any time and without notice, Ursa Minor reserves the right to modify the terms and conditions of the offer or cancel it."
+        ]
+      },
+      {
+        "title": "Content",
+        "paragraphs": [
+          "The Service allows to post, link, store, share and otherwise make available certain information and text (the \"Content\"). A User is responsible for the Content posted to the Service, including its legality, reliability, and appropriateness.",
+          "By posting Content to the Service, User grants Ursa Minor the right and license to use, modify, publicly perform, publicly display, reproduce such Content on and through the Service. User retains all rights to the Content submitted, posted or displayed on or through the Service and responsible for protecting those rights. User agrees that this license includes the right for Ursa Minor to make Content available to other Users of the Service."
+        ]
+      },
+      {
+        "title": "Accounts",
+        "paragraphs": [
+          "User is obligated to provide Ursa Minor with information that is accurate, complete and up-to-date upon creating an account. Failure to do so constitutes a breach of the Terms, which may result in immediate termination of User’s account on the Service.",
+          "User is responsible for safeguarding the password that is used to access the Service and for any activities or actions under the password. User agrees not to disclose the password to any third party. User is obligated to notify Ursa Minor immediately upon becoming aware of any breach of security or unauthorized use of the account.",
+          "User may not use as a username the name of another person or entity or that is not lawfully available for use, a name or trademark that is subject to any rights of another person or entity without appropriate authorization, or a name that is otherwise offensive, vulgar or obscene."
+        ]
+      },
+      {
+        "title": "Copyright Policy",
+        "paragraphs": [
+          "Ursa Minor respects the intellectual property rights of others. Ursa Minor will respond to any claim that Content posted on the Service infringes the copyright or other intellectual property infringement (\"Infringement\") of any person.",
+          "If you are a copyright owner or authorized on behalf of one, and you believe that the copyrighted work has been copied in a way that constitutes copyright infringement that is taking place through the Service, you must submit your notice to hello@heylisten.app and include a detailed description of the alleged Infringement in your notice.",
+          "You may be held accountable for damages (including costs and attorneys' fees) for misrepresenting that any Content is infringing your copyright."
+        ]
+      },
+      {
+        "title": "Intellectual Property",
+        "paragraphs": [
+          "The Service and its original content (excluding Content provided by Users), features and functionality are and will remain the exclusive property of Ursa Minor and its licensors. The Service is protected by copyright, trademark, and other laws of both Mauritius and foreign countries. Our trademarks and trade dress may not be used in connection with any product or service without the prior written consent of Ursa Minor."
+        ]
+      },
+      {
+        "title": "Links To Other Web Sites",
+        "paragraphs": [
+          "The Service may contain links to third-party web sites or services that are not owned or controlled by Ursa Minor.",
+          "Ursa Minor has no control over and assumes no responsibility for the content, privacy policies, or practices of any third party web sites or services. User acknowledges and agrees that Ursa Minor shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any such content, goods or services available on or through any such web sites or services.",
+          "We strongly advise you to read the terms and conditions and privacy policies of any third-party web sites or services that you visit."
+        ]
+      },
+      {
+        "title": "Termination",
+        "paragraphs": [
+          "Ursa Minor may terminate or suspend User’s account immediately, without prior notice or liability, for any reason whatsoever, including without limitation of breaching the Terms.",
+          "Upon termination, User’s right to use the Service will immediately cease. If User wishes to terminate their account, you may simply discontinue using the Service."
+        ]
+      },
+      {
+        "title": "Limitations of Liability",
+        "paragraphs": [
+          "Ursa Minor disclaims any and all liability for incidental or consequential damages arising out of the use or operation of or inability to use the Service, even if Ursa Minor has been advised of the possibility of such damages. Furthermore, the User indemnifies and agrees to hold Ursa Minor harmless from such claims."
+        ]
+      },
+      {
+        "title": "Copyright Notices",
+        "paragraphs": [
+          "The Service is the property of Ursa Minor. All rights for the Service belong to Ursa Minor. These rights are not transferred as part of this Agreement."
+        ]
+      },
+      {
+        "title": "Limitations of Use",
+        "paragraphs": [
+          "The User may not copy or use the Service in any way, in whole or in part. The User may not modify, reverse engineer, decompile the Service or modify or reproduce the Service documentation."
+        ]
+      },
+      {
+        "title": "Place of Jurisdiction",
+        "paragraphs": [
+          "Ursa Minor is a registered Mauritian company and this agreement is governed by Mauritian laws.",
+          "",
+          "February 26, 2019",
+          "",
+          "Ursa Minor Ltd",
+          "24 Dr Joseph Rivière",
+          "Port Louis",
+          "Mauritius"
+        ]
+      }
+    ],
+"frequently_asked_questions": "よくある質問",
+"frequently_asked_questions_description": "Hey,Listen！は顧客とつながりを強くし、製品やサービスの改善・向上に役立ちます。 この便利なガイドに従って、Hey,Listen!を使いこなすようになります！",
+    "faq_chapters": [
+      {
+        "title": "はじめに",
+        "anchor": "get-started",
+        "description": "Hey,Listenについて基本的な情報",
+        "content": "<p>Hey,Listen!を使い始めるには、サインアップページでEメールアドレス、名前、パスワードを記入してください。 全て必須項目です。</p><p>パスワードを安全な場所に保管してください。Eメールアドレスを使って、いつでもパスワードを再設定できます。</p><p>プロジェクトに新しいアイデアまたはコメントが追加されたとき、登録メールアドレスに通知を送信します。どんなデバイスからでもプロジェクトを管理できるし、アカウントを同僚と共有できます。</p>"
+      },
+      {
+        "title": "プロジェクトを作成",
+        "anchor": "create-a-project",
+        "description": "プロジェクトを作る方法",
+        "content": "<p>サインアップは完了した後、「ワークスペース」というページに移動します。</p><p>ワークスペースでWebサイト、アプリ、製品、ビジネスなどのために色々なプロジェクトを作成することができる場所です。</p><p>最初のプロジェクトを作りましょう。 それには、プロジェクトの名前と短いURLを入力してください。 簡単な言葉で、短いURLはプロジェクトへのリンクです。こちらのリンクを顧客とシェアするか、ソフトウェアやサイトで使えます。 </p><p>プロジェクト名または目のアイコンを押して、プロジェクトのページに移動します。</p><p>プロジェクト名と短いURLはいつでも編集できます。それには、鉛筆のアイコンをクリックしてください。 </p>"
+      },
+      {
+        "title": "ワークスペースとは",
+        "anchor": "name-your-workspace",
+        "description": "ワークスペースの名前を変更する方法",
+        "content": "<p>ワークスペースは様々なプロジェクト一覧が表示される場所です。</p><p>ワークスペース名はランダムに生成され、数字と文字の組み合わせです。</p><p>ワークスペース名を「設定」＞「プロフィール」で編集できます。</p><p>ご注意点：すでにプロジェクトのリンクを共有していた場合、サイト上でリンクを更新すること、顧客に通知することを忘れないでください！</p>"
+      },
+      {
+        "title": "アイデアを追加",
+        "anchor": "add-an-idea",
+        "description": "アイデアを追加する方法",
+        "content": "<p>ヒント：誰も最初にはじめるのが好きではありません。ユーザーにひらめきを与えるため、 いくつかのアイデアを追加した方がいいです。</p><p>アイデアを追加するには、「アイデアがあります！」ボタンをクリックします。 アイデアについて手短に説明を入力して、「送信」ボタンをクリックします。これでアイデアがプロジェクトページに公開されます。</p>"
+      },
+      {
+        "title": "コメントを追加",
+        "anchor": "add-a-comment",
+        "description": "コメントを追加する方法",
+        "content": "<p>顧客とのコミュニケーションを保つことは要点です！</p><p>ログイン状態を確認し、管理者としてアイデアをコメントします。</p><p>ヒント：匿名でコメントしたいですか？アイデアのURLリンクをコピーして、ログインしていないWebブラウザで閲覧してください。これでユーザーとしてコメントすることができます！</p>"
+      },
+      {
+        "title": "アイデアを賛成",
+        "anchor": "like-an-idea",
+        "description": "アイデアに「いいね」を付ける方法",
+        "content": "<p>各アイデアの下に、ハートのアイコンがあります。 アイデアに共感・応援した場合、ハートを押します。付けた「いいね」を取り消すことができます。</p><p>人気なアイデアは、新版に実装します。</p>"
+      },
+      {
+        "title": "アイデアを並べ替え",
+        "anchor": "sort-ideas",
+        "description": "アイデアを並べ替える方法",
+        "content": "<p>デフォルトでアイデアは「いいね」数で並べ替えます。</p><p>アイデアを追加日で並べ替えるには、「最新」をクリックします。</p>"
+      },
+      {
+        "title": "ラベルを指定",
+        "anchor": "tag-ideas",
+        "description": "アイデアにラベルを付ける方法",
+        "content": "<p>顧客とのコミュニケーションを保つ方法の一つはラベル付のシステムです。ラベルは開発状態を確認するために使われます。</p><p>現在、開発状態を4つのラベルから選択できます:</p><ul><li>計画中</li><li>完成</li><li>進行中</li><li>ホット</li></ul>"
+      },
+      {
+        "title": "プロジェクトを管理",
+        "anchor": "manage-your-projects",
+        "description": "プロジェクトを作る、編集、削除",
+        "content": "<p>管理者として、アイデアやコメントを削除することができます。 プロジェクト名と短いURLを編集したり、不要になった場合は削除したりすることもできます。</p>"
+      },
+      {
+        "title": "プランと料金",
+        "anchor": "plans-and-payments",
+        "description": "プランと料金についてもっと詳しく",
+        "content": "<p>2020年1月31日まで最初の100人のユーザーにHey,Listen!の完全版を無料で提供します。</p><p>試用期間が終了したら、Hey,Listen!の機能の一部は有料になります。試用期間の期限切れについては、前もって通知します。</p><p>無料プランにダウングレードするか、もっと適当なプランを選択できるようになります。</p><p>有料プランは以下の通りです：</p><ul><li>ライトプラン（¥980/月）</li><li>プロプラン（¥1890/月）</li></ul><p>ユーザーの期待に応えるように絶えず改善しています。 何か提案があれば、お気軽に<a href=\"/ideas-jp/heylisten\">Hey,Listenサービスの改善ページ</a>にコメントしてください。</p>"
+      }
+    ]
+  },
   "project_page": {
     "registration_greeting": "<p>無料トライアルに登録していただきありがとうございます。 2020年1月31日まで有料プランの機能を無料でお楽しみください。</p><p>請求日の2週間前にお知らせいたします。 </p><p>2020年1月31日後、有料プランを使い続けるためにクレジットカード情報を入力する必要があります。あるいはいつでも無料プランにダウングレードすることができます。</p>"
   }

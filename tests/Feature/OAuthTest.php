@@ -13,7 +13,7 @@ use Laravel\Socialite\Two\User as SocialiteUser;
 
 class OAuthTest extends TestCase
 {
-    public function setUp()
+    public function setUp() : void
     {
         parent::setUp();
 

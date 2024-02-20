@@ -12,6 +12,7 @@ use Illuminate\Support\Facades\Auth;
 class CommentController extends Controller
 {
     protected $idea;
+
     /**
      * Instantiate a new controller instance.
      *

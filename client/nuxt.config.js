@@ -1,5 +1,17 @@
 require('dotenv').config()
 
+const polyfills = [
+  'Promise',
+  'Object.assign',
+  'Object.values',
+  'Array.prototype.find',
+  'Array.prototype.findIndex',
+  'Array.prototype.includes',
+  'String.prototype.includes',
+  'String.prototype.startsWith',
+  'String.prototype.endsWith'
+]
+
 module.exports = {
   // mode: 'spa',
 
@@ -10,6 +22,22 @@ module.exports = {
     canonicalUrl: process.env.CLIENT_URL || 'http://feedback.test',
     appName: process.env.APP_NAME || 'Feedback',
     appLocale: process.env.APP_LOCALE || 'en',
+    githubAuth: !!process.env.GITHUB_CLIENT_ID,
+    facebookAuth: !!process.env.FACEBOOK_CLIENT_ID,
+
+    // Yandex metrics
+    yandex: {
+      id: process.env.YA_METRIKA_ID || null,
+      webvisor: process.env.YA_METRIKA_WEBVISOR || false,
+      clickmap: process.env.YA_METRIKA_CLICKMAP || false,
+      useCDN: process.env.YA_METRIKA_USECDN || false,
+      trackLinks: process.env.YA_METRIKA_TRACKLINKS || false,
+      accurateTrackBounce: process.env.YA_METRIKA_ACCURATETRACKBOUNCE || false
+    },
+
+    AmplitudeKey: process.env.AMPLITUDE_API_KEY || null,
+    googleSiteVerification: process.env.GOOGLE_SITE_VERIFICATION || null,
+    recaptchaSiteKey: process.env.RECAPTCHA_SITE_KEY || null
   },
 
   head: {
@@ -22,6 +50,9 @@ module.exports = {
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+    ],
+    script: [
+      { src: `https://cdn.polyfill.io/v2/polyfill.min.js?features=${polyfills.join(',')}` }
     ]
   },
 
@@ -48,9 +79,13 @@ module.exports = {
     // '~plugins/nuxt-client-init',
     { src: '~plugins/bootstrap', ssr: false },
     { src: '~plugins/quill', ssr: false },
+    { src: '~plugins/ym', ssr: false },
+    { src: '~plugins/crisp', ssr: false },
     // Filters
     '~plugins/filters/date',
     '~plugins/directives/scroll',
+    { src: '~plugins/amplitude', ssr: false },
+    { src: '~plugins/facebook-pixel', ssr: false }
   ],
 
   modules: [
@@ -58,7 +93,19 @@ module.exports = {
     'nuxt-vuex-router-sync',
     '~/modules/spa',
     ['@nuxtjs/moment', ['fr', 'ja', 'de', 'ru']],
+    'nuxt-facebook-pixel-module',
+    ['@nuxtjs/google-analytics', {
+      id: process.env.GOOGLE_ANALYTICS_ID || null,
+      dev: false
+    }]
   ],
+
+  facebook: {
+    /* module options */
+    track: 'PageView',
+    pixelId: process.env.FACEBOOK_PIXEL_ID || 'not-set',
+    disabled: true
+  },
 
   build: {
     extractCSS: true
