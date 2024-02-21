@@ -5,23 +5,23 @@
     "license": "MIT",
     "type": "project",
     "require": {
-        "php": "^7.1.3",
+        "php": "^7.4",
         "crazybooot/base64-validation": "^1.0",
         "doctrine/dbal": "^2.9",
         "fideloper/proxy": "^4.0",
+        "fruitcake/laravel-cors": "^3.0",
         "guzzlehttp/guzzle": "^6.3",
-        "laravel/framework": "^6.10",
+        "laravel/framework": "^7.0",
         "laravel/slack-notification-channel": "^2.0",
-        "laravel/tinker": "^1.0.6",
-        "spatie/laravel-cors": "^1.5.1",
+        "laravel/tinker": "^2.0",
         "tymon/jwt-auth": "^1.0.0-rc.4"
     },
     "require-dev": {
         "filp/whoops": "^2.0",
         "fzaninotto/faker": "^1.4",
         "mockery/mockery": "^1.0",
-        "nunomaduro/collision": "^2.0",
-        "phpunit/phpunit": "^8.0"
+        "nunomaduro/collision": "^4.1",
+        "phpunit/phpunit": "^8.5"
     },
     "autoload": {
         "classmap": [
