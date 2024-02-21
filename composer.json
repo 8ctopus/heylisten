@@ -10,26 +10,26 @@
         "doctrine/dbal": "^2.9",
         "fideloper/proxy": "^4.0",
         "fruitcake/laravel-cors": "^3.0",
-        "guzzlehttp/guzzle": "^6.3",
-        "laravel/framework": "^7.0",
+        "guzzlehttp/guzzle": "^7.0.1",
+        "laravel/framework": "^8.0",
+        "laravel/legacy-factories": "^1.4",
         "laravel/slack-notification-channel": "^2.0",
         "laravel/tinker": "^2.0",
+        "laravel/ui": "^3.0",
         "tymon/jwt-auth": "^1.0.0-rc.4"
     },
     "require-dev": {
         "filp/whoops": "^2.0",
         "fzaninotto/faker": "^1.4",
         "mockery/mockery": "^1.0",
-        "nunomaduro/collision": "^4.1",
-        "phpunit/phpunit": "^8.5"
+        "nunomaduro/collision": "^5.0",
+        "phpunit/phpunit": "^9.0"
     },
     "autoload": {
-        "classmap": [
-            "database/seeds",
-            "database/factories"
-        ],
         "psr-4": {
-            "App\\": "app/"
+            "App\\": "app/",
+            "Database\\Factories\\": "database/factories/",
+            "Database\\Seeders\\": "database/seeders/"
         }
     },
     "autoload-dev": {
