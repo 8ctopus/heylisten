@@ -7,14 +7,13 @@
     "require": {
         "php": "^8.3",
         "crazybooot/base64-validation": "^1.0",
-        "doctrine/dbal": "^2.9",
-        "fruitcake/laravel-cors": "^3.0",
+        "doctrine/dbal": "^3.0",
         "guzzlehttp/guzzle": "^7.0.1",
-        "laravel/framework": "^9.0",
+        "laravel/framework": "^10.0",
         "laravel/legacy-factories": "^1.4",
         "laravel/slack-notification-channel": "^2.0",
         "laravel/tinker": "^2.0",
-        "laravel/ui": "^3.0",
+        "laravel/ui": "^4.0",
         "tymon/jwt-auth": "2.0.0"
     },
     "require-dev": {

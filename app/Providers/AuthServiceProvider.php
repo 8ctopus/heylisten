@@ -22,7 +22,8 @@ class AuthServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        $this->registerPolicies();
+        // is now invoked automatically by the framework
+        // $this->registerPolicies();
 
         //
     }
