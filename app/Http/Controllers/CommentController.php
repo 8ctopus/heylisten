@@ -2,10 +2,10 @@
 
 namespace App\Http\Controllers;
 
-use App\Comment;
+use App\Models\Comment;
 use App\Http\Requests\AuthorizedRequest;
 use App\Http\Requests\CreateCommentRequest;
-use App\Idea;
+use App\Models\Idea;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 
@@ -61,7 +61,7 @@ class CommentController extends Controller
     /**
      * Display the specified resource.
      *
-     * @param  \App\Comment  $comment
+     * @param  Comment  $comment
      * @return \Illuminate\Http\Response
      */
     public function show(Comment $comment)
@@ -73,7 +73,7 @@ class CommentController extends Controller
      * Update the specified resource in storage.
      *
      * @param  \Illuminate\Http\Request  $request
-     * @param  \App\Comment  $comment
+     * @param  Comment  $comment
      * @return \Illuminate\Http\Response
      */
     public function update(Request $request, Comment $comment)
@@ -85,7 +85,7 @@ class CommentController extends Controller
      * Remove the specified resource from storage.
      *
      * @param AuthorizedRequest $request
-     * @param  \App\Comment  $comment
+     * @param  Comment  $comment
      * @return \Illuminate\Http\Response
      */
     public function destroy(AuthorizedRequest $request, $idea_id, Comment $comment)

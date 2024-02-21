@@ -2,11 +2,11 @@
 
 namespace App\Http\Controllers;
 
-use App\Category;
+use App\Models\Category;
 use App\Http\Requests\CreateIdeaRequest;
 use App\Http\Requests\AuthorizedRequest;
-use App\Idea;
-use App\Workspace;
+use App\Models\Idea;
+use App\Models\Workspace;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 

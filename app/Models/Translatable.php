@@ -4,7 +4,7 @@
  * https://cwhite.me/translating-eloquent-fields-with-mysqls-native-json-type/
  */
 
-namespace App;
+namespace App\Models;
 
 trait Translatable
 {

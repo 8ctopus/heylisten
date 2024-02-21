@@ -2,7 +2,7 @@
 
 namespace App\Http\Requests;
 
-use App\Workspace;
+use App\Models\Workspace;
 use App\Validation\Rules\RichText;
 use Illuminate\Foundation\Http\FormRequest;
 

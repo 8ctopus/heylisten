@@ -2,7 +2,7 @@
 
 namespace App\Notifications;
 
-use App\User;
+use App\Models\User;
 use Illuminate\Bus\Queueable;
 use Illuminate\Notifications\Messages\SlackMessage;
 use Illuminate\Notifications\Notification;
@@ -62,7 +62,7 @@ class UserGreeting extends Notification
 
     /**
      * Get the array representation of notification
-     * 
+     *
      * @param User $user
      * @return array
      */

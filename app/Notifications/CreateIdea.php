@@ -2,7 +2,7 @@
 
 namespace App\Notifications;
 
-use App\Idea;
+use App\Models\Idea;
 use Illuminate\Notifications\Notification;
 use Illuminate\Notifications\Messages\MailMessage;
 use Illuminate\Support\HtmlString;

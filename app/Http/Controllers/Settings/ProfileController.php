@@ -3,7 +3,7 @@
 namespace App\Http\Controllers\Settings;
 
 use App\Validation\Rules\AlphaDashEnglish;
-use App\Workspace;
+use App\Models\Workspace;
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
 use Illuminate\Validation\Rule;

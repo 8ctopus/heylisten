@@ -70,7 +70,7 @@ Route::group(['middleware' => 'api'], function () {
 
     // list categories
     Route::get('categories', function () {
-        $categories = \App\Category::all();
+        $categories = \App\Models\Category::all();
         return response()->json($categories, 200);
     });
 });
