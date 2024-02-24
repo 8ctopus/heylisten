@@ -33,6 +33,7 @@ class CreateIdea extends Notification
         $link = url(config('app.client_url') . '/' . $workspace->alias . '/' . $product->slug . '/ideas/topic/' . $idea->id . '-' . $idea->slug);
         return (new MailMessage)
             ->line('New idea has been created on product "'.$product->name.'"')
+            ->lineIf($idea->email, 'Email address: "'.$idea->email.'"')
             ->line($idea->title)
             ->line(new HtmlString("<a href=\"$link\">$link</a>"));
     }

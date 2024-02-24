@@ -45,6 +45,7 @@ class CreateIdeaRequest extends FormRequest
 
         return [
             'title' => ['required', 'between:3,200'],
+            'email' => ['nullable', 'email'],
             'description' => [new RichText],
             'image' => 'sometimes|base64dimensions:max_width=1920,max_height=1920|base64mimes:jpeg,png,gif|base64max:1024',
         ];

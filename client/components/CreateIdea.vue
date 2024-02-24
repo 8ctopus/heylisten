@@ -8,7 +8,11 @@
                  type="text" class="form-control">
           <has-error :form="form" field="title"/>
         </div>
-
+        <div class="form-group">
+          <input placeholder="Email" v-model="form.email" :class="{ 'is-invalid': form.errors.has('email') }"
+                 type="email" class="form-control">
+          <has-error :form="form" field="email"/>
+        </div>
         <div class="form-group">
           <editor
             v-model="form.description"
@@ -68,6 +72,7 @@ export default {
   data: () => ({
     form: new Form({
       title: '',
+      email: '',
       description: '',
       image: null
     }),
