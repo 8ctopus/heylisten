@@ -1,10 +1,12 @@
 # how to install development environment
 
 ## start docker containers
+
     docker-compose up
     CTRL + Z to detach
 
 ## configure database container
+
     # connect to container
     winpty docker exec -it heylisten-db zsh
 
@@ -21,6 +23,7 @@
     exit
 
 ## configure web container
+
     # connect to container
     winpty docker exec -it heylisten-web zsh
 
@@ -44,6 +47,7 @@
     yarn install --frozen-lockfile
 
 ## update nginx configuration 
+
 ```bash
 # create dir
 mkdir etc/nginx/sites-enabled
@@ -78,16 +82,20 @@ openssl x509 -req -in /etc/ssl/nginx/heylisten.csr -CA /etc/ssl/nginx/certificat
 ```
 
 # add domain to hosts file on host computer
+
     127.0.0.1 heylisten.app api.heylisten.app
 
 # start node application
+
     yarn start
 
 # update composer dependencies
+
     composer show --outdated
     composer update
 
 # yarn stuff
+
     # build production css and js
     yarn run build
 
