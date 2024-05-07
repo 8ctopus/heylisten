@@ -1,9 +1,5 @@
 /.env
 /node_modules
-/public/_nuxt
-/public/hot
-/public/storage
-/public/uploads
-/storage/*.key
 /vendor/
 /.phpunit.result.cache
+/heylisten.sublime-workspace
